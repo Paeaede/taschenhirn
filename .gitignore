@@ -1,3 +1,6 @@
 venv
 bad_scraper/driver
 .idea
+*__pycache__
+qna_webapp/mlruns
+qna_webapp/model
