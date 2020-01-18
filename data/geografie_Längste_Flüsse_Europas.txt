@@ -1,0 +1,271 @@
+Wolga
+3 530
+Waldaihöhen (Europäischer Teil von RUS)
+Kaspisches Meer
+Russland
+Twer, Jaroslawl, Nischni Nowgorod, Kasan, Toljatti, Samara, Wolgagrad
+Donau
+2 845
+Zusammenfluss von Brigach & Breg bei Donaueschingen, Schwarzwald (D)
+Schwarzes Meer (bei Tulcea, Rumänien)
+D, AUT, SK, UNG, KRO, SERB, RUM, BUL, MOL, UKR
+Regensburg, Ulm, Wien, Bratislava, Budapest, Novi Sad, Belgrad, Braila
+Ural*
+2 428
+Südliches Uralgebirge (asia-europ. Grenze, RUS)
+Kaspisches Meer (Kasachstan) 
+Russland, Kasachstan 
+Orsk, Orenburg, Oral, Atyrau 
+Dnepr
+2 200
+Waldaihöhen (Europäischer Teil von RUS)
+Schwarzes Meer (Cherson)
+Russland, Weissrussland, Ukraine
+Smolensk, Kiew, Dnipropetrowsk
+Don
+1 870
+Mittelrussische Platte (Europäischer Teil von RUS)
+Asowsches Meer (Rostow)
+Russland, Ukraine
+Woronesch, Rostow
+Petschora*
+1 809
+Nördlicher Ural (asia-europ. Grenze, RUS)
+Petschorasee (Nordpolarmeer)
+Russland
+Petschora, Narjan-Mar
+Kama
+1 805
+Kamahöhen (Europäischer Teil von RUS)
+Kuibyschewer Stausee & Wolga
+Russland 
+Beresniki, Nabereschnyje Tschelny, Nischnekamsk
+Oka
+1 480
+Bei Glasunowka
+Wolga (bei Nischni Nowgorod)
+Russland 
+Orjol, Kaluga, Serpuchow, Kolomna, Rjasan, Murom, Dserschinsk 
+Belaja
+1 430
+Südlicher 
+Nischnekamsker Stausee 
+Russland 
+Salawat, Sterlitamak, Ufa 
+Dnister
+1 352
+Waldkarpaten (Ukraine)
+Schwarzes Meer
+Ukraine, Moldawien
+Tiraspol
+Rhein
+1 233
+Tomasee (CH im Kanton Graubünden als Rein de Tuma)
+Nordsee (Rotterdam)
+Schweiz
+Basel, Straßburg, Mainz, Köln, Leverkusen, Düsseldorf, Duisburg, Rotterdam
+Desna
+1 130
+Dnepr (bei Kiew)
+Ukraine, Russland
+Brjansk, Tschernihiw, Kiew
+Wytschedgda
+1 130
+Timanrücken, nord-westl. des Urals (RUS)
+Nördliche Dwina
+Russland
+Syktywkar, Kotlas
+Elbe
+1 094
+Riesengebirge (Tschechien)
+Nordsee (bei Cuxhaven)
+Tschechien, Deutschland
+Königsgrätz, Dresden, Magdeburg, HH
+Donez
+1 053
+Nördlich von Belgorod (RUS)
+Don (bei Ust-Donezki)
+Russland, Ukraine, Russland
+Belgorod, Lyssytschansk, Sjewjerodonezk
+Weichsel
+1 047
+Schlesische Beskiden (POL)
+Ostsee (Danzig)
+Polen
+Krakau, Warschau, Torun, Danzig
+Düna
+1 020
+Waldaihöhen (Europäischer Teil von RUS)
+Ostsee (bei Riga) 
+Russland, Weissrussland, Lettland 
+Wizebsk, Riga 
+Tajo
+1 007
+Fuente de Garcia (ESP)
+Atlantik (bei Lissabon)
+Spanien, Portugal
+Toledo, Lissabon
+Loire
+1 005
+Zentralmassiv (F)
+Atlantik
+Frankreich
+Orléans, Tours, Angers, Nantes
+Theiß
+966
+Zusammenfluss von Weißer & Schwarzer Theiß (bei Rachiw, UKR)
+Donau (bei Stari Slankamen, Ungarn)
+Ukraine, Rumänien, Slowakei, Ungarn, Serbien
+Szeged, Szolnok, Szentes, Senta
+Pruth
+954
+Berg Howerla, Ostkarpaten (UKR)
+Donau bei Giurgiulești, Moldawien
+Ukraine, Rumänien, Moldawien 
+Czernowitz
+Save
+945
+Zusammenfluss von Sava Bohinjka & Sava Dolinka bei Radovljica
+Donau bei Belgrad (SERB)
+Slowenien, Kroatien, Bosnien-Herzegowina, Serbien 
+Ljubljana, Zagreb, Belgrad  
+ 
+Memel
+937
+Südwestlich von Minsk (Weißrussland)
+Ostsee (in Litauen)
+Weißrussland, Litauen
+Hrodna, Kaunas
+Ebro
+910
+Sierra del Cordel (Nordost-Spanien)
+Mittelmeer (bei Tarragona)
+Spanien
+Logrono, Tudela, Saragossa
+Douro
+897
+Provins Soria (Nordspanien)
+Atlantik (bei Porto, POR)
+Spanien, Portugal
+Porto, Vila Nova de Gaia
+Wetluga
+889
+Oblast Kirow bei Leninskoje (Europäischer Teil von RUS)
+Tscheboksarsker Stausee & Wolga
+Russland 
+Scharja, Wetluga 
+Maas
+874
+Pouilly-en-Bassigny (F)
+Nordsee (Hollands Diep) 
+Frankreich, Belgien, Niederlande 
+Namur, Verdun, Lüttich, Maastricht, ’s-Hertogenbosch
+Oder
+866
+Odergebirge (Tschechien)
+Ostsee (bei Stettin, POL)
+Tschechien, Deutschland, Polen
+Ostrava, Oppeln, Breslau, Frankfurt a.d. Oder
+Südlicher Bug
+857
+Podolische Platte (UKR)
+Schwarzes Meer
+Ukraine
+Chmelnyzkyj, Winnyzja, Mykolajiw
+Sura
+841
+Wolgaplatte bzw. -Höhen (bei Kusnezk, RUS)
+Tscheboksarsker Stausee & Wolga
+Russland 
+Pensa, Alatyr, Schumerlja 
+Rhone
+812
+Rhone-Gletscher (CH)
+Mittelmeer (Fos-sur-Mer)
+Schweiz (Genfer See), Frankreich
+Lyon, Arles
+Warthe
+808
+Krakau-Tschenstochauer Jura (Polen)
+Oder (bei Küstrin, POL) 
+Polen 
+Czestochowa, Posen, Gorzów Wielkopolski 
+Pinega*
+779
+Zusammenfluss von Belaja und Tschornaja (asiat. -europ. Grenze)
+Nördlichen Dwina (bei Ust Pinega) 
+Russland
+ 
+Seine
+777
+Plateau von Langres (F)
+Ärmelkanal (Le Havre)
+Frankreich
+Melun, Paris, Rouen, Le Havre
+Prypjat
+775
+Oblast Wolhynien, West-Ukraine
+Kiewer Meer & Dnepr 
+Ukraine 
+Pinsk, Masyr 
+Westlicher Bug
+775
+Galizien, West-Ukraine bei Lemberg
+Narew (bei Warschau)
+Ukraine, Weißrussland, Polen
+Brest, Warschau
+ 
+Mures
+766
+Ostkarpaten, bei Harghita, RUM
+Theiß (bei Szeged)
+Rumänien, Ungarn
+Arad, Targu Muret, Szeged
+Drau
+749
+Mehrere Quellen bei Innichen, Südtirol (IT)
+Donau (bei Osijek)
+Italien, Österreich, Slowenien, Kroatien, Ungarn
+Maribor, Spittal, Villach, Osijek
+Seim
+748
+Stausee bei Morosowo, Gubkin (Europäischer Teil von RUS)
+Desna (bei Sosnyzja, Ukraine) 
+Russland, Ukraine 
+Kursk 
+Nördliche Dwina*
+744
+Zusammenfluss von Jug & Suchona (Europäischer Teil von RUS)
+Weißes Meer (Arktischer Ozean) 
+Russland
+Archangelsk
+Rio Guadiana 
+742 
+Bei Ciudad Real (Südspanien) 
+Atlantik (bei Ayamonte, Algarve) 
+Spanien, Portugal 
+Mérida, Badajoz 
+Guadalquivir
+657
+Sierra de Cazorla (Andalusien, Südspanien)
+Atlantik (bei Sanlúcar de Barrameda)
+Spanien 
+Córdoba, Sevilla 
+Po
+652
+Monte Viso (Piemont)
+Adria (Venetien)
+Italien
+Turin, Piacenza, Cremona, Ferrara
+Garonne
+647
+Pyrenäen
+Dordogne (Bordeaux)
+Spanien, Frankreich
+Toulouse, Bordeaux
+Glomma
+601
+Bei Røros (Mittel-Norwegen)
+Oslofjord (Skagerrak, (Südnorwegen)
+Norwegen 
+Sarpsborg, Frederikstad 

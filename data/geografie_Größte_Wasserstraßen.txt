@@ -1,0 +1,82 @@
+Kleiner Belt
+0,6
+das dänische Festland
+der Insel Fünen (DEN)
+Bosporus
+0,7
+das Schwarze Meer
+dem Marmarameer (Türkei)
+Dardanellen
+1,6
+die Ägäis
+dem Marmarameer (Türkei)
+Magellanstraße
+3
+das chilenische Festland
+Feuerland
+Öresund
+3
+Schweden
+der dänischen Insel Seeland
+Straße von Messina
+3,5
+das italienische Festland
+Sizilien (Italien)
+Straße von Kertsch
+4
+das Schwarze Meer
+dem Asowsches Meer
+Straße von Bonifacio
+11
+die französische Insel Korsika
+der italienischen Insel Sardinien
+ 
+Straße von Gibraltar
+14
+Spanien
+Marokko
+Großer Belt
+16
+die dänische Insel Fünen
+der dänischen Insel Seeland
+Bab al Mandab
+18
+das Rote Meer
+dem Golf von Aden
+Belle-Isle-Straße
+20
+Kanada
+der Insel Neufundland
+Sundastraße
+25
+Sumatra (Indonesien)
+Java (ebenfalls Indonesien)
+Ärmelkanal
+32
+Frankreich
+Großbritannien
+ 
+Straße von Malakka
+35
+Sumatra (Indonesien)
+Malaysia
+Cookstraße
+35
+die Nordinsel Neuseelands
+der Südinsel Neuseelands
+Palkstraße
+60
+Südindien
+Sri Lanka
+Straße von Hormus
+63
+den Persischen Golf
+dem Golf von Oman
+Straße von Otranto
+71
+Italien
+Albanien
+Beringstraße
+92
+Alaska (USA)
+mit Sibirien (Russland)

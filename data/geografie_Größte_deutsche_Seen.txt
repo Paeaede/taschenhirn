@@ -1,0 +1,254 @@
+Bodensee*
+536
+251
+Baden-Württemberg
+Müritz
+112,6
+31
+Mecklenburg (bei Waren)
+Chiemsee
+79,9
+73
+Oberbayern (bei Rosenheim)
+Schweriner See
+61,5
+52
+Mecklenburg
+Starnberger See
+56,4
+128
+Oberbayern
+Ammersee
+47,6
+82
+Oberbayern
+Plauer See
+38,7
+26
+Mecklenburg
+Kummerower See
+32,9
+23
+Mecklenburg
+Steinhuder Meer
+29,1
+3
+Niedersachsen (bei Hannover)
+Großer Plöner See
+28,4
+58
+Schleswig-Holstein
+Schaalsee
+23,4
+71
+Schleswig-Holstein, Mecklenburg
+Selenter See
+21,4
+36
+Schleswig-Holstein
+Kölpinsee
+20,3
+30
+Mecklenburg (bei Klink)
+Geiseltalsee
+18,4
+78
+Sachsen-Anhalt (bei Merseburg)
+Tollensesee
+17,6
+33
+Mecklenburg (bei Neubrandenburg)
+Walchensee
+16,4
+190
+Oberbayern (bei Kochel am See und Bad Tölz)
+Forggensee 
+15,2 (bei Vollstau)
+bis 40
+Bayern (bei Füssen)
+ 
+Krakower See
+15,1
+28
+Mecklenburg
+Malchiner See
+14,4
+10
+Mecklenburg
+Große Goitzsche 
+13,3
+48
+Sachsen-Anhalt (bei Bitterfeld)
+Sedlitzer See
+13,3
+27
+Brandenburg
+Schwielochsee
+13,3
+14
+Brandenburg (süd-östlich von Berlin)
+Senftenberger See
+13,0
+25
+Brandenburg
+Bärwalder See
+13,0
+50
+Sachsen (bei Hoyerswerda)
+Ratzeburger See
+12,6
+24
+Schleswig-Holstein
+Dümmer
+12,5
+2
+Niedersachsen (bei Diepholz)
+Scharmützelsee
+12,1
+29
+Brandenburg (bei Bad Saarow)
+Edersee 
+11,8 (bei Vollstau)
+bis 41
+Hessen (bei Waldeck-Frankenberg)
+Fleesensee
+10,8
+6
+Mecklenburg (bei Malchow)
+Möhnesee 
+10,3 (bei Vollstau)
+bis 25
+Nordrhein-Westfalen (bei Soest)
+Unteruckersee
+10,3
+19
+Brandenburg (bei Prenzlau)
+ 
+Wittensee
+9,9
+20
+Schleswig-Holstein (bei Rendsburg)
+Berzdorfer See
+9,5
+72
+Sachsen (bei Görlitz)
+Spremberger See 
+9,3 (bei Vollstau)
+bis 15
+Brandenburg (bei Cottbus)
+Bleiloch-Talsperre 
+9,2 (bei Vollstau)
+bis 65
+Thüringen (bei Gräfenwarth)
+Tegernsee
+9,0
+72
+Bayern (bei Rottach-Egern)
+Großer Brombachsee 
+8,7 (bei Vollstau)
+bis 33
+Bayern (bei Weißenburg)
+Biggesee 
+8,7 (bei Vollstau)
+bis 52
+Nordrhein-Westfalen (bei Olpe)
+Ruppiner See
+8,25
+23
+Brandenburg
+Dassower See
+7,9
+k.A.
+Schleswig-Holstein (bei Lübeck)
+Schwielowsee 
+7,9
+9
+Brandenburg
+Rurtalsperre Schwammenauel 
+7,8 (bei Vollstau)
+bis 77
+Nordrhein-Westfalen
+Goldenberger See
+7,7
+4
+Mecklenburg
+Staffelsee
+7,7
+39
+Bayern (bei Garmisch)
+Werbellinsee
+7,6
+55
+Brandenburg (bei Barnim)
+Müggelsee
+7,4
+8
+Berlin
+Hohenwarte 
+7,3 (bei Vollstau)
+k.A.
+Thüringen (bei Saalfeld)
+Drewitzer See
+6,9
+31
+Mecklenburg (bei Alt Schwerin)
+Oberuckersee
+6,9
+28
+Brandenburg (bei Warnitz)
+Westensee
+6,8
+17
+Schleswig-Holstein (bei Kiel)
+Grimnitzsee
+6,7
+11
+Brandenburg (bei Joachimsthal)
+Waginger See
+6,6
+27
+Bayern (bei Traunstein)
+Gülper See
+6,6
+3
+Brandenburg (bei Havelland)
+Simssee
+6,5
+22
+Bayern (bei Rosenheim)
+Muldestausee 
+6,3 (bei Vollstau)
+35
+Sachsen-Anhalt (rund um Friedersdorf, Schlaitz, Pouch,  Mühlbeck
+Kochelsee
+6,0
+66
+Bayern (bei Kochel)
+Kelbra 
+6,0
+7 
+Sachsen-Anhalt (am nördlichen Kyffhäuser-Gebirge)
+Ismaninger 
+5,8
+3
+Bayern (nordöstlich von München)
+Borna 
+5,7
+25
+Sachsen (südlich von Leipzig)
+Königssee
+5,2
+192
+Bayern (Berchtesgadener Land)
+Schluchsee 
+5,1
+61
+Baden-Württemberg, der größte See im Schwarzwald.
+Stechlinsee
+4,5
+70
+Brandenburg
+Altmühlsee 
+4,5
+3
+Bayern (rund 40 km südwestlich von Nürnberg)

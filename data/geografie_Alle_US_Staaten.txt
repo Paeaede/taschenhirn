@@ -1,0 +1,502 @@
+Alabama
+Cotton State
+Süd-Osten, Golf von Mexiko
+Montgomery
+1819
+4 779 800
+23
+135 775
+30
+Tennessee (N), Georgia (O), Florida (S), Mississippi (W)
+Alaska
+Last Frontier
+Nord-Westen, Pazifik
+Juneau
+1959
+710 200
+47
+1 717 854
+1
+Kanada
+Arizona
+Grand Canyon State
+Süd-Westen,
+Phoenix
+1912
+6 392 000
+15
+295 276
+6
+Utah (N), Colorado (NO), Neu-Mexiko (O), Mexiko (S), Kalifornien (W), Nevada (NW)
+Arkansas
+Natural State
+Südliches Zentrum
+Little Rock
+1836
+2 916 000
+32
+137 742
+29
+Missouri (N), Tennessee (O), Mississippi (SO), Louisiana (S), Texas (SW), Oklahoma (W)
+Colorado
+Centennial State
+Mitte
+Denver
+1876
+5 030 000
+22
+269 837
+8
+Wyoming (N), Nebraska (NO), Kansas (O), Oklahoma (SO), Neu-Mexiko (S), Arizona (SW), Utha (W)
+Connecticut
+Constitution State
+Nord-Ost-Küste, Atlantik
+Hartford
+1788
+3 574 000
+29
+14 371
+48
+Massachusetts (N), Rhode Island (O), New York (W)
+Delaware
+The First State
+Nord-Ost-Küste, Atlantik
+Dover
+1787
+898 000
+45
+6 452
+49
+Pennsylvania (N), New Jersey (O), Maryland (SW)
+Florida
+Sunshine State
+Süd-Osten, Golf von Mexiko und Atlantik
+Tallahassee
+1845
+18 801 000
+4
+170 451
+22
+Georgia (NO), Alabama (NW)
+Georgia
+Peach State
+Süd-Ost-Küste, Atlantik
+Atlanta
+1788
+9 688 000
+9
+154 077
+24
+North Carolina (NO), South Carolina (O), Florida (S), Alabama (W), Tennessee (NW)
+Hawaii
+Aloha State
+Pazifik,
+Honolulu
+1959
+1 360 000
+42
+28 337
+43
+Die 8 Inseln Hawaii, Oʻahu, Maui, Kauaʻi, Molokaʻi, Lānaʻi, Niʻihau und Kahoʻolawe
+Idaho
+Gem State
+Nord-Westen,
+Boise
+1890
+1 567 000
+39
+216 632
+14
+Kanada (N), Montana (NO), Wyoming (O), Utah (S), Nevada (SW), Oregon (W), Washington (NW)
+Illinois
+Land of Lincoln
+Östliches Zentrum, Lake Michigan
+Springfield
+1818
+12 831 000
+5
+149 998
+25
+Wisconsin (N), Indiana (O), Kentucky (SO), Missouri (SW), Iowa (NW)
+Indiana
+Hoosier State
+Nord-Östliches Zentrum
+Indiana-polis
+1816
+6 484 000
+15
+94 321
+38
+Michigan (N), Ohio (O), Kentucky (S), Illinois (W)
+Iowa
+Hawkeye State
+Mittlerer Norden
+Des Moines
+1846
+3 046 000
+30
+145 743
+26
+Minnesota (N), Wisconsin (NO), Illinois (SO), Missouri (S), Nebraska (SW), South Dakota (NW)
+Kalifornien
+Golden State
+Westküste, Pazifik
+Sacramento
+1850
+37 254 000
+1
+423 970
+3
+Oregon (N), Nevada (O), Arizona (SO), Mexiko (S)
+Kansas
+Sunflower State
+Zentrum
+Topeka
+1861
+2 853 000
+33
+213 283
+15
+Nebraska (N), Missouri (O), Oklahoma (S), Colorado (W)
+Kentucky
+Bluegrass State
+Mittlerer Osten
+Frankfort
+1792
+4 340 000
+26
+104 749
+37
+Indiana (N), Ohio (NO), West Virginia (O), Virginia (SO), Tennessee (S), Missouri (W), Illinois (NW)
+Louisiana
+Pelican State
+Süden, Golf von Mexico
+Baton Rouge
+1812
+4 533 000
+21
+134 270
+31
+Arkansas (N), Mississippi (O), Texas (W)
+Maine
+Pine Tree State
+Nord-Ost-Küste, Atlantik
+Augusta
+1820
+1 328 000
+40
+91 653
+39
+Kanada (N), New Hampshire (SW)
+Maryland
+Free State
+Nord-Ost-Küste, Atlantik
+Annapolis
+1788
+5 774 000
+19
+32 133
+42
+Pennsylvania (N), Delaware (O), Virginia (SW), Washington D.C. (W), West Virginia (NW)
+Massachusetts
+Bay State
+Nord-Ost-Küste, Atlantik
+Boston
+1788
+6 548 000
+13
+27 336
+44
+New Hampshire (N), Rhode Island (SO), Connecticut (SW), New York (W), Vermont (NW)
+ 
+Michigan
+Great Lakes State
+Norden, Kanada, Lake Superior, Michigansee, Huronsee, Eriesee
+Lansing
+1837
+9 884 000
+8
+250 494
+11
+Kanada (N), Ohio (SO), Indiana (SW), Wisconsin (W)
+Minnesota
+North Star State
+Norden, Kanada, Lake Superior
+Saint Paul
+1858
+5 304 000
+21
+225 171
+12
+Kanada (N), Wisconsin (O), Iowa (S), South Dakota (SW), North Dakota (NW)
+Mississippi
+Magnolia State
+Süd-Osten, Golf von Mexiko
+Jackson
+1817
+2 967 000
+31
+125 434
+32
+Tennessee (N), Alabama (O), Louisiana (SW), Arkansas (NW)
+Missouri
+Show Me State
+Zentrum
+Jefferson City
+1821
+5 989 000
+18
+180 533
+21
+Iowa (N), Illinois (NO), Kentucky (O), Tennessee (SO), Arkansas (S), Oklahoma (SW), Kansas (W), Nebraska (NW)
+Montana
+Treasure State
+Nord-Westen,
+Helena
+1889
+989 400
+44
+380 838
+4
+Kanada (N), North Dakota (NO), South Dakota (SO), Wyoming (S), Idaho (W)
+Nebraska
+Cornhusker State
+Zentrum
+Lincoln
+1867
+1 826 000
+38
+200 520
+16
+South Dakota (N), Iowa (O), Missouri (SO), Kansas (S), Colorado (SW), Wyoming (W)
+Nevada
+Silver State
+Westen
+Carson City
+1864
+2 700 500
+35
+286 351
+7
+Idaho (NO), Utah (O), Arizona (SO), Kalifornien (W), Oregon (NW)
+New Hampshire
+Granite State
+Nord-Ost-Küste, Kanada, Atlantik
+Concord
+1788
+1 316 000
+41
+24 216
+46
+Kanada (N), Maine (O), Massachusetts (S), Vermont (W)
+New Jersey
+Garden State
+Nord-Ost-Küste, Atlantik
+Trenton
+1787
+8 792 000
+11
+22 588
+47
+New York (N), Delaware (S), Pennsylvania (W)
+New Mexico
+Land of Enchantment
+Süden, Mexiko
+Santa Fe
+1912
+2 059 000
+36
+314 915
+5
+Colorado (N), Oklahoma (NO), Texas (O), Mexiko (S), Arizona (W), Utah (NW)
+New York
+Empire State
+Nord-Ost, Kanada, Ontariosee, Eriesee, Atlantik
+Albany
+1788
+19 378 000
+3
+141 299
+27
+Kanada (N), Vermont (NO), Massachusetts (O), Connecticut (SO), New Jersey (S), Pennsylvania (SW)
+North Carolina
+Tar Heel State
+Ostküste, Atlantik
+Raleigh
+1789
+9 535 000
+10
+139 389
+28
+Virginia (N), South Carolina (S), Georgia (SW); Tennessee (W)
+North Dakota
+Peace Garden State
+Norden, Kanada
+Bismarck
+1889
+672 600
+48
+183 112
+19
+Kanada (N), Minnesota (O), South Dakota (S), Montana (W)
+ 
+Ohio
+Buckeye State
+Nord-Osten, Eriesee
+Columbus
+1803
+11 537 000
+7
+116 096
+34
+Pennsylvania (NO), West Virginia (SO), Kentucky (SW), Indiana (W), Michigan (NW)
+Oklahoma
+Sooner State
+Südliches Zentrum
+Oklahoma City
+1907
+3 751 000
+28
+181 035
+20
+Kansas (N), Missouri (NO), Arkansas (O), Texas (S), New Mexico (W), Colorado (NW)
+Oregon
+Beaver State
+Nord-West-Küste, Pazifik
+Salem
+1859
+3 831 000
+27
+254 805
+9
+Washington (N), Idaho (O), Nevada (SO), Kalifornien (SW)
+Pennsylvania
+Keystone State
+Nord-Osten, Eriesee
+Harrisburg
+1787
+12 702 000
+6
+119 283
+33
+New York (N), New Jersey (O), Delaware (SO), Maryland (S), West Virginia (SW), Ohio (W)
+Rhode Island
+Ocean State
+Nord-Ost-Küste, Atlantik
+Providence
+1790
+1 053 000
+43
+4 002
+50
+Massachusetts (N), Connecticut (W)
+South Carolina
+Palmetto State
+Ostküste, Atlantik
+Columbia
+1788
+4 625 000
+24
+82 932
+40
+North Carolina (N), Georgia (W)
+South Dakota
+Mount Rushmore State
+Nördliches Zentrum
+Pierre
+1889
+814 000
+46
+199 731
+17
+North Dakota (N), Minnesota (O), Iowa (SO), Nebraska (S), Wyoming (SW), Montana (NW)
+Tennessee
+Volunteer State
+Mittlerer Osten
+Nashville
+1796
+6 346 000
+17
+109 151
+36
+Kentucky (N), Virginia (NO), North Carolina (O), Georgia (SO), Alabama (S), Mississippi (SW), Arkansas (W), Missouri (NW)
+Texas
+Lone Star State
+Süden, Golf von Mexiko
+Austin
+1845
+25 146 000
+2
+695 621
+2
+Oklahoma (N), Arkansas (NO), Louisiana (SO), Mexiko (S), New Mexico (W)
+Utah
+Beehive State
+Mittlerer Westen
+Salt Lake City
+1896
+2 764 000
+34
+219 887
+13
+Wyoming (NO), Colorado (O), New Mexico (SO), Arizona (S), Nevada (W), Idaho (NW)
+Vermont
+Green Mountain State
+Nord-Osten/
+Montpelier
+1791
+626 000
+49
+24 901
+45
+Kanada (N), New Hampshire (O), Massachusetts (S), New York (W)
+Virginia
+Old Dominion
+Ostküste, Atlantik
+Richmond
+1788
+8 001 000
+12
+110 785
+35
+Maryland (NO), Washington D.C. (O), North Carolina (S), Tennessee (SW), Kentucky (W), West Virginia (NW)
+Washington
+Evergreen State
+Nord-West-Küste, Kanada, Pazifik
+Olympia
+1889
+6 725 000
+14
+184 665
+18
+Kanada (N), Idaho (O), Oregon (S)
+West Virginia
+Mountain State
+Nord-Osten
+Charleston
+1863
+1 853 000
+37
+62 755
+41
+Pennsylvania (NO), Maryland (O), Virginia (SO), Kentucky (SW), Ohio (NW)
+Wisconsin
+Badger State
+Mittlerer Norden, Lake Superior, Michigansee
+Madison
+1848
+5 687 000
+20
+169 639
+23
+Michigan (N), Illinois (SO), Iowa (SW), Minnesota (W)
+Wyoming
+Equality State
+Nord-Westen
+Cheyenne
+1890
+564 000
+50
+253 336
+10
+Montana (N), South Dakota (NO), Nebraska (SO), Colorado (S), Utah (SW), Idaho (W)

@@ -1,0 +1,229 @@
+Schwarzwald
+Feldberg
+1 493
+Baden-Württemberg
+Herzogenhorn (1.415), Belchen (1.414), Schauinsland (1.284), Kandel (1.241)
+Bayerischer Wald
+Großer Arber
+1 456
+Bayern
+Großer Rachel (1.453), Kleiner Rachel (1.399), Lusen (1.373)
+Erzgebirge
+Keilberg, 
+1 244
+Sachsen, Böhmen (CZ)
+Fichtelberg, D (1.215), Eisenberg (1.028), Auersberg (1.019), Taufichtig (1.001)
+Harz
+Brocken
+1 141
+Niedersachsen, Sachsen-Anhalt, Thüringen
+Heinrichshöhe (1.045), Königsberg (1.033), Wurmberg (971), Renneckenberg (933)
+Fichtelgebirge
+Schneeberg
+1 053
+Bayern
+Ochsenkopf (1.024), Platte (946), Kösseine (939)
+Schwäbische Alb
+Lemberg
+1 015
+Baden-Württemberg
+Oberhohenberg (1.011), Hochberg (1.009), Wandbühl (1.007)
+Thüringer Wald
+Großer Beerberg
+983
+Thüringen
+Großer Inselsberg (916), Schützenberg (906), Greifenberg (901)
+Rhön
+Wasserkuppe
+950
+Hessen
+Dammersfeldkuppe (928), Kreuzberg (928), Eierhauckberg (909), Hohe Hölle (894)
+Oberpfälzer Wald
+
+
+938
+Bayern
+Schwarzkopf, CZ (1.042), Tillenberg, CZ (939), Entenbühl (901)
+Taunus
+Großer Feldberg
+881
+Hessen
+Kleiner Feldberg (825), Altkönig (798), Weilsberg (700)
+Schiefergebirge
+Großer Farmdenkopf
+869
+Thüringen
+Kieferle (868), Bleßberg (867), Dürre Fichte (861), Eisenberg (852)
+Rothaargebirge
+Langenberg
+843
+Nordrhein-Westfalen
+Hegekopf (842,9), Kahler Asten (842), Ettelsberg (838)
+Hunsrück
+Erbeskopf
+816
+Rheinland-Pfalz, Saarland
+An den zwei Steinen (766), Rösterkopf (708)
+Westerzgebirge
+Plattenberg
+1 043
+Sachsen, Böhmen (CZ)
+Hoher Brand, D (802), Auersberg
+Frankenwald
+Döbraberg
+795
+Bayern, Thüringen
+Wetzstein (792), Schneidberg (759)
+Zittauer Gebirge
+Lausche
+793
+Sachsen, Böhmen (CZ)
+Hochwald (749), Jonsberg (653), Buchberg (651)
+Vogelsberg
+Taufstein
+773
+Hessen
+Hoherodskopf (764), Sieben Ahorn (752), Herchenhainer Höhe (733)
+ 
+Elstergebirge
+Kapellenberg
+759
+Sachsen, Böhmen (CZ)
+Hainberg, CZ (758)
+Hoher Meißner
+Kasseler Kuppe
+753
+Hessen
+Kasseler Stein (748), Kalbe (719)
+Eifel
+Hohe Acht
+747
+Rheinland-Pfalz
+Ernstberg (700), Schwarzer Mann (697), Botrange (694), Scharteberg (691)
+Elbsandstein-gebirge
+Hoher Schneeberg, 
+
+
+Sachsen, Böhmen (CZ)
+Große Zschirnstein, D (561)
+Fränkische Alp, Frankenalp
+Hesselberg
+689
+Bayern
+Dürrenberg (656), Schloßberg (606), Dillberg (595), Buchberg (591)
+Nordpfälzer Bergland
+Donnersberg
+686
+Saarland, Rheinland-Pfalz
+Trautzberg (604), Füsselberg (595), Weiselberg (570)
+Kellerwald
+Wüstegarten
+675
+Hessen (Edersee)
+Hohes Lohr (656), Große Aschkoppe (640)
+Pfälzer Wald/ Haardt
+Kalmit
+673
+Rheinland-Pfalz
+Kesselberg (661), Roßberg (637), Hochberg (636)
+Ebbegebirge
+Nordhelle
+662
+Nordrhein-Westfalen
+Rehberg (646), Waldberg (639), Rüenhardt (636)
+Westerwald
+Fuchskaute
+657
+Rheinland-Pfalz, Hessen, NRW
+Stegskopf (654), Salzburger Kopf (654), Höllberg (642)
+ 
+Kaufunger Wald
+Hirschberg
+643
+Hessen, Niedersachsen
+Bilstein (641), Mühlenstein (607), Steinberg (585)
+Knüllgebirge
+Eisenberg
+636
+Hessen
+Knüllköpfchen (633), Waldknüll (624), Rimberg (591)
+Odenwald
+Katzenbuckel
+626
+Hessen, Baden-Württemberg
+Neunkircher Höhe (605), Hardberg (593), Stiefelhöhe (584)
+Habichtswald
+Hohes Gras
+615
+Hessen
+Großer Bärenberg (600), Essigberg (597), Schwengeberg (556)
+Gladenbacher Bergland
+Angelburg
+609
+Hessen
+Schmittgrund (590), Mattenberg (578), Daubhaus (552)
+Spessart
+Geiersberg
+586
+Bayern
+Lärchhöhe (573), Hohe Warte (572), Hermannskoppe (567)
+Kaiserstuhl
+Totenkopf
+557
+Baden-Württemberg
+Eichelspitze (521)
+Solling
+Große Blöße
+528
+Niedersachsen
+Großer Ahrensberg (525), Moosberg (513)
+Bergisches Land
+Homert
+518
+Nordrhein-Westfalen
+Unnenberg (505)
+Lipper Bergland
+Köterberg
+496
+Nordrhein-Westfalen
+
+Hainich
+Alter Berg
+494
+Thüringen
+Hohes Rode (493), Craulaer Kreuz (483)
+Leinebergland
+Hils
+480
+Niedersachsen
+Holzberg (444), Thüster Berg (441)
+Kyffhäuser Wald
+Kulpenberg
+473
+Thüringen, Sachsen-Anhalt
+
+Reinhardswald
+Staufenberg
+472
+Hessen
+Gahrensberg (472), Hahneberg (460), Junkernkopf (453)
+Eggegebirge
+Preußischer Velmerstot
+468
+Nordrhein-Westfalen
+Feldromer Berg (446), Hausheide (441)
+Siebengebirge
+Großer Ölberg
+460
+Nordrhein-Westfalen
+Löwenburg (455), Lohrberg (432)
+Teutoburger Wald
+Barnacken
+446
+Niedersachsen, NRW
+Hohlestein (433), Oberer Langenberg (418)
+Wiehengebirge
+Heidbrink
+320
+Niedersachsen, NRW
+Wurzelbrink (318)

@@ -1,0 +1,562 @@
+Berlin
+3 614 000
+4 052
+892
+96
+Berlin
+Spree, Havel
+1
+Hamburg
+1 830 600
+2 424
+755
+104
+HH
+Alster, Elbe
+2
+München
+1 456 000
+4 686
+310
+25 Bezirke
+Bayern, Oberbayern
+Isar
+3
+Köln
+1 080 400
+2 668
+405
+86
+Nordrhein-Westfalen
+Rhein
+4
+Frankfurt
+747 000
+3 008
+248
+46
+Hessen
+Main
+5
+Stuttgart
+632 800
+3 052
+207
+23 Bezirke
+Baden-Württemberg
+Neckar
+6
+Düsseldorf
+617 300
+2 839
+217
+50
+Nordrhein-Westfalen
+Rhein
+7
+Dortmund
+586 600
+2 090
+280
+62
+Nordrhein-Westfalen
+Ruhr
+8
+Essen
+583 400
+2 774
+210
+50
+Nordrhein-Westfalen
+Ruhr
+9
+Leipzig
+582 000
+1 954
+298
+63
+Sachsen
+Elster, Pleiße
+10
+Bremen
+568 000
+1 745
+325
+19
+HB
+Weser
+11
+Dresden
+555 800
+1 678
+328
+19 Bezirke
+Sachsen
+Elbe
+12
+Hannover
+535 100
+2 621
+204
+51
+Niedersachsen
+Leine
+13
+Nürnberg
+515 200
+2 764
+186
+7 Bezirke
+Bayern, Mittelfranken
+Pegnitz
+14
+Duisburg
+498 100
+2 140
+233
+46
+Nordrhein-Westfalen
+Rhein, Ruhr
+15
+Bochum
+365 500
+2 509
+145
+32
+Nordrhein-Westfalen
+Ruhr
+16
+Wuppertal
+353 600
+2 100
+168
+10 Bezirke
+Nordrhein-Westfalen
+Wupper
+17
+Bielefeld
+332 500
+1 285
+258
+37
+Nordrhein-Westfalen
+ 
+18
+ 
+Bonn
+325 500
+2 307
+141
+51
+Nordrhein-Westfalen
+Rhein
+19
+Münster
+313 600
+1 034
+302
+6 Bezirke
+Nordrhein-Westfalen
+Aa
+20
+Karlsruhe
+311 900
+1 798
+173
+27
+Baden-Württemberg
+Rhein
+21
+Mannheim
+308 000
+2 125
+145
+17 Bezirke
+Baden-Württemberg
+Rhein, Neckar
+22
+Augsburg
+292 800
+1 994
+147
+42
+Bayern, Schwaben
+Lech, Wertach
+23
+Wiesbaden
+278 600
+1 366
+204
+26
+Hessen
+Rhein
+24
+Mönchengladbach
+262 200 
+1 538 
+170 
+44 
+Nordrhein-Westfalen 
+Rhein 
+25
+Gelsenkirchen
+260 300
+2 480
+105
+18
+Nordrhein-Westfalen
+Emscher
+26
+Braunschweig
+248 000
+1 291
+192
+19 Bezirke
+Niedersachsen
+Oker
+27
+Kiel
+247 900
+2 090
+118
+30
+Schleswig-Holstein
+Eider und Ostsee
+28
+Chemnitz
+246 900
+1 117
+221
+39
+Sachsen
+Chemnitz
+29
+Aachen
+246 200
+1 531
+160
+35
+Nordrhein-Westfalen
+Wurm
+30
+Halle 
+239 200
+1 771
+135
+35
+Sachsen-Anhalt
+Saale
+31
+Magdeburg
+238 500
+1 186
+201
+40
+Sachsen-Anhalt
+Elbe
+32
+Freiburg im Breisgau
+229 600
+1 500
+153
+42
+Baden-Württemberg
+Dreisam
+33
+Krefeld
+226 700
+1 645
+138
+19
+Nordrhein-Westfalen
+Rhein
+34
+Lübeck
+216 300
+1 010
+214
+35
+Schleswig-Holstein
+Trave
+35
+ 
+Mainz
+215 100
+2 201
+98
+65
+Rheinland-Pfalz
+Rhein
+36
+Erfurt
+213 000
+789
+270
+53
+Thüringen
+Gera
+37
+Oberhausen
+211 400
+2 743
+77
+26
+Nordrhein-Westfalen
+Ruhr
+38
+Rostock
+208 400
+1 150
+181
+21
+Mecklenburg-Vorpommern
+Warnow
+39
+Kassel
+200 700
+1 880
+107
+23
+Hessen
+Fulda
+40
+Hagen
+187 700
+1 170
+160
+13
+Nordrhein-Westfalen
+Ennepe
+41
+Saarbrücken
+181 000
+1 083
+167
+20
+Saarland
+Saar 
+42
+Hamm
+179 200
+791
+226
+7 Bezirke
+Nordrhein-Westfalen
+Lippe
+43
+Potsdam
+175 700
+932
+188
+34
+Brandenburg
+Havel
+44
+Mülheim an der Ruhr
+171 300
+1 876
+91
+9
+Nordrhein-Westfalen
+Ruhr
+45
+Ludwigshafen am Rhein
+168 500
+2 173
+78
+10 Bezirke
+Rheinland-Pfalz
+Rhein
+46
+Oldenburg (Oldb)
+167 000
+1 622
+103
+34
+Niedersachsen
+Hunte, Haaren
+47
+Osnabrück
+164 400
+1 372
+120
+23
+Niedersachsen
+Hase
+48
+Leverkusen
+163 600
+2 073
+79
+13
+Nordrhein-Westfalen
+Rhein, Wupper
+49
+Solingen
+158 800
+1 773
+89
+5 Bezirke
+Nordrhein-Westfalen
+Wupper
+50
+Heidelberg
+160 600
+1 476
+109
+15
+Baden-Württemberg
+Neckar
+51
+Darmstadt
+158 300
+1 296
+122
+9
+Hessen
+Darmbach
+52
+Herne
+156 500
+3 043
+51
+13
+Nordrhein-Westfalen
+Escher
+53
+Neuss
+153 800
+1 545
+100
+28
+Nordrhein-Westfalen
+Niederrhein
+54
+Regensburg
+150 900
+1 870
+81
+18
+Bayern, Oberpfalz
+Donau, Regen
+55
+Paderborn
+149 100
+830
+179
+8
+Nordrhein-Westfalen
+Pater, Born
+56
+Ingolstadt
+135 200
+1 014
+133
+12
+Bayern, Oberbayern
+Donau
+57
+Offenbach
+126 700
+2 822
+45
+9
+Hessen
+Main
+58
+Würzburg
+126 600
+1 445
+88
+25
+Bayern, Unterfranken
+Main
+59
+Fürth
+126 500
+1 997
+63
+18
+Bayern, Mittelfranken
+Rednitz, Pegnitz, Regnitz
+60
+Ulm
+125 600
+1 058
+119
+18
+Baden-Württemberg
+Donau
+61
+Heilbronn
+125 100
+1 253
+100
+9
+Baden-Württemberg
+Neckar
+62
+Pforzheim
+124 300
+1 268
+98
+16
+Baden-Württemberg
+Enz, Nagold, Würm
+63
+Wolfsburg
+123 900
+607
+204
+40
+Niedersachsen
+Mittellandkanal
+64
+Göttingen
+119 500
+1 023
+117
+18
+Niedersachsen
+Leine
+65
+Bottrop
+117 400
+1 166
+101
+17
+Nordrhein-Westfalen
+Emscher, Rhein-Herne-Kanal
+66
+Reutlingen
+115 800
+1 330
+87
+12
+Baden-Württemberg
+Echaz
+67
+Koblenz
+113 800
+1 083
+105
+30
+Rheinland-Pfalz
+Rhein, Mosel
+68
+Recklinghausen
+113 400
+1 705
+66
+18
+Nordrhein-Westfalen
+Emscher
+69
+Bremerhaven
+113 000
+1 205
+94
+9
+Bremen
+Elbe, Weser
+70
