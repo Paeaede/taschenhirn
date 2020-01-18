@@ -12,6 +12,7 @@ from fastapi import FastAPI, HTTPException
 
 
 import logging
+import os
 
 from haystack import Finder
 from haystack.database import app
@@ -50,7 +51,7 @@ db.create_all()
 
 # Let's first get some documents that we want to query
 # Here: 517 Wikipedia articles for Game of Thrones
-doc_dir = "../data"
+doc_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), "..", "data")
 # Note: requires changing the function in io.py and adding encoding='utf-8' in our case
 write_documents_to_db(document_dir=doc_dir, clean_func=clean_wiki_text) # , only_empty_db=True
 
