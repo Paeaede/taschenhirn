@@ -1,0 +1,82 @@
+Merkur
+(
+57,9
+87,9 Tage
+58,6 Tage
+4 880
+0,06
+0,055
+0
+Nein
+Venus
+(
+108,2
+224,7 Tage
+243 Tage
+12 104
+0,88
+0,815
+0
+Nein
+Erde
+(
+149,6
+365,3 Tage
+1 Tag
+
+
+1
+1
+1
+Nein
+Mars
+(
+227,0
+686,98 Tage
+24h 37min
+6 780
+0,151
+0,107
+2
+Nein
+Jupiter
+(
+778,3
+11,86 Jahre
+9h 50min
+139 820
+1.316
+317,9
+79
+Ja
+Saturn
+(
+1 427
+29,46 Jahre
+10h 14min
+120 536
+755
+95,2
+62
+Ja
+ 
+Uranus
+(U
+2 871
+84,02 Jahre
+17h 14min
+50 724
+67
+14,54
+27
+Ja
+Neptun
+(
+4 497
+164,8 Jahre
+16h 7min
+49 244
+57
+17,1
+14
+Ja

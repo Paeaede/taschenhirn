@@ -1,0 +1,576 @@
+Adygeja
+7 792
+Republik 
+Südrussland
+Maikop
+1922, 1991
+440 000
+Altai
+167 996  
+Region, Kraj
+Sibirien
+Barnaul
+1937 
+2 420 000 
+Altai
+92 903 
+Republik 
+Sibirien
+Gorno-Altaisk
+1922, 1991 
+206 000 
+Amur
+361 913 
+Oblast
+Ferner Osten
+Blagoweschtschensk
+1932, 1948 
+830 000 
+Archangelsk
+413 103 
+Oblast 
+Nordwestrussland 
+Archangelsk
+1937 
+1 230 000 
+Astrachan
+49 042 
+Oblast 
+Südrussland
+Atrachan
+1943 
+1 010 000 
+Baschkortostan
+142 947  
+Republik 
+Wolga
+Ufa
+1919
+4 070 000
+Belgorod
+27 134  
+Oblast 
+Zentralrussland
+Belgorod
+1954 
+1 530 000 
+Brjansk
+34 857  
+Oblast 
+Zentralrussland
+Brjansk
+1944 
+1 280 000 
+Burjatien
+351 334 
+Republik 
+Ferner Osten
+Ulan-Ude
+1923
+972 000
+Chabarowsk
+787 633 
+Region 
+Ferner Osten
+Chabarowsk
+1938 
+1 344 000 
+Chakassien
+61 569 
+Republik
+Sibirien
+Abakan
+1930, 1991
+532 000
+Chanten und Mansen 
+534 801  
+Autonomer Kreis 
+Ural 
+Chanty-Mansijsk
+1930 
+1 532 000 
+Dagestan
+50 270 
+Republik
+Nordkaukasus
+Machatschkala
+1991
+2 910 000
+Inguschetien
+3 628 
+Republik 
+Nordkaukasus
+Magas
+1992
+412 000
+Irkutsk
+774 846 
+Oblast
+Sibirien
+Irkutsk
+1937
+2 430 000
+Iwanowo
+21 437  
+Oblast
+Zentralrussland
+Iwanowo
+1936
+1 060 000
+Jamal-Nenzen
+769 250 
+Autonomer Kreis 
+Ural 
+Salechard 
+1930 
+523 000 
+Jaroslawl
+36 177 
+Oblast 
+Zentralrussland 
+Jaroslawl 
+1936 
+1 273 000 
+Jüdische Autonome Oblast
+36 266 
+Autonome Oblast 
+Ferner Osten 
+Birobidschan
+1934
+176 600 
+Kabardino-Balkarien
+12 470 
+Republik 
+Nordkaukasus
+Naltschik
+1921 
+860 000
+Kaliningrad
+15 125  
+Oblast 
+Nordwestrussland 
+Kaliningrad
+1946 
+942 000
+Kalmückien
+74 731 
+Republik
+Südrussland
+Elista
+1920, 1992
+290 000
+Kaluga
+29 777  
+Oblast 
+Zentralrussland
+Kaluga
+1944 
+1 010 000 
+Kamtschatka
+464 275 
+Region 
+Ferner Osten
+Petropawlowsk-Kamtschatski
+1932, 2007 
+322 000 
+Karatschai-Tscherkessien
+14 277 
+Republik
+Nordkaukasus
+Tscherkessk
+1922, 1992 
+478 000 
+Karelien
+180 520 
+Republik 
+Nordwestrussland
+Petrosawodsk
+1920, 1992 
+644 000 
+Kemerowo
+95 725 
+Oblast 
+Sibirien
+Kemerowo
+1943 
+2 763 000 
+Kirow
+120 374  
+Oblast 
+Wolga
+Kirow
+1934 
+1 340 000 
+Komi
+416 774 
+Republik 
+Nordwestrussland
+Syktywkar
+1921 
+900 000 
+Kostroma
+60 211  
+Oblast 
+Zentralrussland
+Kostroma
+1944 
+668 000 
+Krasnodar
+75 485 
+Region 
+Südrussland
+Krasnodar
+1937 
+5 226 000 
+Krasnojarsk
+2 366 797 
+Region 
+Sibirien
+Krasnojarsk
+1934 
+2 828 000 
+Krim
+26 080
+Von Russland besetzte autonome Republik
+Süd-Ukraine
+Simferopol
+1921, 2014 
+1 890 000
+Kurgan
+71 488 
+Oblast
+Ural
+Kurgan
+1943
+911 000
+Kursk
+29 997 
+Oblast
+Zentralrussland
+Kursk
+1934
+1 127 000
+Leningrad
+83 908 
+Oblast
+Nordwestrussland
+Sankt Petersburg
+1927
+1 717 000
+ 
+Lipezk
+24 047 
+Oblast
+Zentralrussland
+Lipezk
+1954
+1 174 000
+Magadan
+462 464 
+Oblast
+Ferner Osten
+Magadan
+1953
+157 000
+Mari El
+23 375 
+Republik
+Wolga
+Joschkar-Ola
+1920 
+697 000 
+Mordwinien
+26 128 
+Republik 
+Wolga 
+Saransk 
+1930 
+835 000 
+Moskau
+45 799 
+Oblast
+Zentralrussland
+Moskau
+1929 
+7 100 000 
+Murmansk
+144 902  
+Oblast
+Nordwestrussland
+Murmansk
+1938 
+796 000 
+Nenzen
+176 810 
+Autonomer Kreis 
+Nordwestrussland 
+Narjan-Mar 
+1929 
+42 000 
+Nischni Nowgorod
+76 624 
+Oblast
+Wolga
+Nischni Nowgorod
+1929 
+3 310 000 
+Nordossetien-Alanien
+7 987 
+Republik 
+Nordkaukasus 
+Wladikawkas
+1924 
+713 000 
+Nowgorod
+54 501 
+Oblast
+Nordwestrussland
+Weliki Nowgorod
+1944
+634 000 
+Nowosibirsk
+177 756 
+Oblast 
+Sibirien 
+Nowosibirsk 
+1937 
+2 666 000 
+Omsk
+141 140 
+Oblast 
+Sibirien 
+Omsk 
+1934 
+1 978 000 
+Orenburg
+123 702 
+Oblast 
+Wolga 
+Orenburg 
+1934 
+2 033 000 
+Orjol
+24 652 
+Oblast 
+Zentralrussland 
+Orjol 
+1937 
+787 000 
+Pensa
+43 352
+Oblast 
+Wolga 
+Pensa 
+1939 
+1 386 000 
+Perm
+160 236
+Region
+Wolga
+Perm
+1938, 2005
+2 635 000
+Primorje
+164 673
+Region 
+Ferner Osten 
+Wladiwostok
+1938 
+1 957 000 
+Pskow
+55 399
+Oblast 
+Nordwestrussland 
+Pskow 
+1944 
+674 000 
+Rjasan
+39 605
+Oblast 
+Zentralrussland 
+Rjasan 
+1937 
+1 154 000 
+Rostow
+100 967
+Oblast 
+Südrussland 
+Rostow am Don 
+1937 
+4 278 000 
+ 
+Sacha
+3 083 523
+Republik 
+Ferner Osten 
+Jakutsk 
+1922 
+959 000 
+Sachalin
+87 101 
+Oblast
+Ferner Osten 
+Juschno-Sachalinsk 
+1932 
+498 000 
+Samara
+53 565 
+Oblast 
+Wolga 
+Samara 
+1936 
+3 216 000 
+Saratow
+101 240  
+Oblast 
+Wolga 
+Saratow 
+1936 
+2 522 000 
+Smolensk
+49 779 
+Oblast 
+Zentralrussland 
+Smolensk 
+1937 
+986 000 
+Stawropol
+66 160 
+Region 
+Nordkaukasus 
+Stawropol
+1936 
+2 786 000 
+Swerdlowsk
+194 307  
+Oblast 
+Ural 
+Jekaterinburg 
+1934 
+4 298 000 
+Tambow
+34 462 
+Oblast 
+Zentralrussland 
+Tambow 
+1937 
+1 092 000 
+Tatarstan
+67 847 
+Republik 
+Wolga 
+Kasan 
+1920 
+3 787 000 
+Tjumen
+160 122 
+Oblast 
+Ural 
+Tjumen 
+1944 
+1 341 000 
+Tomsk
+314 391 
+Oblast 
+Sibirien 
+Tomsk 
+1944 
+1 048 000 
+Transbaikalien
+431 892 
+Region 
+Ferner Osten 
+Tschita 
+1937, 2008 
+1 107 000 
+Tscheljabinsk
+88 529 
+Oblast
+Ural 
+Tscheljabinsk 
+1934 
+3 476 000 
+Tschetschenien
+15 647  
+Republik 
+Nordkaukasus 
+Grosny 
+1922 
+1 269 000 
+Tschuktschen 
+721 481 
+Autonomer Kreis 
+Ferner Osten 
+Anadyr
+1930 
+50 500 
+Tschuwaschien
+18 343 
+Region 
+Wolga 
+Tscheboksary
+1920 
+1 252 000 
+Tula
+25 679 
+Oblast 
+Zentralrussland 
+Tula
+1937 
+1 554 000 
+Tuwa
+168 604 
+Republik 
+Sibirien 
+Kysyl
+1944 
+308 000 
+Twer
+84 201 
+Oblast 
+Zentralrussland 
+Twer
+1935 
+1 354 000 
+Udmurtien
+42 061 
+Republik 
+Wolga 
+Ischewsk
+1920 
+1 521 000 
+Uljanowsk
+37 181  
+Oblast 
+Wolga 
+Uljanowsk
+1943 
+1 293 000 
+Wladimir
+29 084 
+Oblast 
+Zentralrussland
+Wladimir
+1944
+1 444 000 
+Wolgograd
+112 877 
+Oblast 
+Südrussland 
+Wolgograd (von 1925-61 Stalingrad)
+1936 
+2 610 000 
+Wologda
+144 527 
+Oblast 
+Nordwestrussland 
+Wologda
+1937 
+1 202 000 
+Woronesch
+52 216 
+Oblast 
+Zentralrussland 
+Woronesch
+1934 
+2 335 000 
