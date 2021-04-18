@@ -18,6 +18,7 @@ farblos, gelblich
 Südafrika, Kongo, Angola, AUS
 Kohlenstoff
 Schmucksteine, Bohr- und Schneidwerkzeuge
+
 Granat
 blutrot bis braun
 Slowakei, Tschechien, Alpen
@@ -28,7 +29,6 @@ rötlich, gelblich
 Indien, Nordafrika, Japan, AUS
 Chalcedon
 Schmucksteine, Kunstfiguren
- 
 Lapislazuli
 blau-weiß
 RUS, Afghanistan, Burma, Chile
@@ -39,7 +39,6 @@ schwarzgrün, hellgrün
 Kongo, Simbabwe, Chile, AUS
 Kupferkarbonat
 Schmucksteine und wertvolles Erz
- 
 Obsidian
 schwarzglänzend
 Italien, Ägäis, Türkei, Island
@@ -50,6 +49,7 @@ milchweiß
 Australien
 Oxid
 Schmucksteine, Brillanten
+
 Rosenquarz
 rotbraun
 Brasilien, Madagaskar, USA, Ural
@@ -75,6 +75,7 @@ violett
 AUS, Italien, Japan, Kanada
 Silikate
 Schmucksteine, Brillanten
+
 Tigerauge
 goldbraun
 Südafrika, Australien

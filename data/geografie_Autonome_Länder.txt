@@ -27,7 +27,7 @@ Großbritannien
 1650
 The Valley
 Karibik, 
-13 572
+14 872
 96
 Ostkaribischer Dollar
 Aruba 
@@ -35,7 +35,7 @@ Niederlande
 1636
 Oranjestad
 Karibik, nördlich von Venezuela
-106 800
+106 310
 193
 Arub.-Florin
 Azoren
@@ -59,7 +59,7 @@ Großbritannien
 1684
 Hamilton
 Karibik (360 Inseln)
-64 700
+62 500
 53
 Berm.-
 Bonaire 
@@ -67,7 +67,7 @@ Niederlande
 1630
 Kralendijk
 Karibik, nördlich von Venezuela
-18 400
+26 000
 288
 US-Dollar
 Bougainville
@@ -83,7 +83,7 @@ Großbritannien 
 1670 
 George Town 
 Karibik (3 Inseln) 
-49 000 
+64 950 
 264 
 Kaiman-Dollar 
 Ceuta 
@@ -99,7 +99,7 @@ Neuseeland
 1965
 Avarua
 Ozeanien (9 Inseln)
-18 600
+17 550
 242
 Dollar
 Curaçao
@@ -107,7 +107,7 @@ Niederlande
 1630
 Willemstad
 Karibik, nördlich von Venezuela
-150 400
+163 400
 444
 Antill.-
 Färöer
@@ -115,7 +115,7 @@ Dänemark
 1948
 Tórshavn
 Atlantik, Nord-Europa
-49 200
+48 670
 1 396
 Färö. Krone
 Falklandinseln
@@ -123,7 +123,7 @@ Großbritannien
 1833
 Stanley
 Atlantik, Süd-Amerika (200 Inseln)
-3 000
+3 370
 12 173
 Falkl.-
 Gagausien
@@ -139,7 +139,7 @@ Großbritannien
 1713
 Gibraltar
 Südwest-Europa
-32 600
+33 700
 6
 Gibraltar-
 Grönland
@@ -147,15 +147,16 @@ Dänemark
 1953
 Nuuk
 Arktis, Nord-Amerika
-56 000
+56 660
 2 166 000
 Dänische Krone
+
 Guam
 USA
 1950
 Hagåtña
 Westpazifik
-185 500
+167 300
 545
 US-Dollar
 Guadeloupe
@@ -163,7 +164,7 @@ Frankreich
 1635
 Basse-Terre
 Karibik
-402 000
+400 000
 1 628
  
 Guayana
@@ -171,7 +172,7 @@ Frankreich
 1817
 Cayenne
 Süd-Amerika
-244 000
+290 800
 83 534
 Euro
 Hongkong
@@ -179,7 +180,7 @@ VR China
 1997
 Hongkong
 Ost-Asien
-7 325 000
+7 436 200
 1 104
 HK-Dollar
 Jungferninseln, 
@@ -187,9 +188,17 @@ Großbritannien
 1672
 Road Town
 Karibik (40 Inseln)
-28 000
+30 000
 151
 US-Dollar
+Kanalinseln 
+Großbritannien
+1945
+Jersey
+Ärmelkanal
+166 000
+199
+Jersey-Pfund
 Kanaren
 Spanien
 1514
@@ -219,7 +228,7 @@ VR China
 1999
 Macau
 Ost-Asien
-636 200
+640 500
 30
 Pataca
 Madeira
@@ -230,7 +239,6 @@ Atlantik (4 Inseln)
 267 800
 741
 Euro 
- 
 Martinique
 Frankreich
 1635
@@ -244,9 +252,10 @@ Frankreich
 1841
 Mamoudzou
 Komoren, Indischer Ozean
-212 600
+266 200
 374
 Euro
+
 Melilla 
 Spanien
 1497
@@ -255,13 +264,12 @@ Nord-Afrika, Marokko
 85 500
 13
 Euro
- 
 Montserrat
 Großbritannien
 1632
 Brades
 Karibik, Kleine Antillen
-4 900
+4 990
 102
 Ostkar.-
 Nachitschewan 
@@ -277,7 +285,7 @@ Frankreich
 1853
 Nouméa
 Ozeanien
-268 800
+282 800
 18 576
 CFP-
 Niue
@@ -285,8 +293,8 @@ Neuseeland
 1974
 Alofi
 Ozeanien, Süd-Pazifik
-1 400
-260
+1 610
+261
 NZ-Dollar
 Nordirland
 Großbritannien
@@ -309,7 +317,7 @@ PLO, Fatah, Hamas
 1994 
 Jerusalem, Ramallah, Gaza Stadt
 Vorder-Asien
-4 632 000
+4 981 400
 6 220
 Israel. Schekel
 Pitcairninseln
@@ -328,12 +336,13 @@ Ozeanien
 268 200
 4 167
 CFP-Franc
+
 Puerto Rico
 USA
 1952
 San Juan
 Karibik (9 Inseln)
-3 667 000
+2 933 400
 8 959
 US-Dollar
 Puntland
@@ -344,13 +353,21 @@ Horn von Afrika
 2 400 000
 212 510
 Somal. Schilling
-La Réunion
+Réunion
 Frankreich
 1642
 Saint-Denis
 Indischer Ozean
-835 100
+888 930
 2 503
+Euro
+Saint-Pierre und Miquelon
+Frankreich
+1814
+Saint-Pierre
+Nord-Atlantik
+6 000
+242
 Euro
 Sansibar
 Tansania
@@ -389,7 +406,7 @@ Großbritannien
 1815/
 Jamestown
 Südatlantik
-5 000
+5 600
 123
 St.-Helena-Pfund
 St. Martin/
@@ -397,7 +414,7 @@ Frankreich (Norden) und Niederlande (Süden)
 2010 
 Marigot (F) und Philipsburg (NL)
 Karibik, Kleine Antillen
-72 000
+42 390
 87
 Euro
 Südossetien
@@ -416,12 +433,20 @@ Südatlantik
 30
 4 066
 Pfund-Sterling
+Tibet
+VR China 
+1950/51
+Lhasa
+Asien, Hochland im 
+3 300 000
+1 268 947
+Yuan bzw. Renminbi
 Tokelau
 Neuseeland
 2006
 Fakaofo
 Südpazifik (3 Atolle)
-1 360
+1 330
 12
 NZ-Dollar
 Transnistrien
@@ -437,7 +462,7 @@ Großbritannien
 1776/ 1959
 Cockburn Town
 Karibik (44 Inselchen)
-41 000
+38 200
 497
 US-Dollar
 Vojvodina
@@ -453,6 +478,6 @@ umstritten, kämpft um Unabhängigkeit
 1976
 El-Aaiún
 West-Afrika
-539 000
+582 500
 266 000
 Marok. Dirham

@@ -2,7 +2,7 @@ Albanien
 Tirana
 Durrës
 1912
-Parlament.
+Parlament. Republik
 Maja e Korabit (2.751)
 Drin
 12 Quarken
@@ -11,7 +11,7 @@ Andorra
 Andorra la Vella
 Escaldes-Engordany
 1278
-Parlament.
+Parlament. Monarchie
 Coma Pedrosa (2.946)
 Valira
 7 Gemeinden
@@ -20,11 +20,12 @@ Belgien
 Brüssel (4)
 Antwerpen (1), Gent (2)
 1830
-Föderale
+Königreich, Föderale Erbmonarchie
 Botrange (694)
 Maas
 11 Provinzen
 Luxemburg, Lüttich
+
 Bosnien und Herzegowina
 Sarajevo
 Banja Luka
@@ -38,7 +39,7 @@ Bulgarien
 Sofia
 Plowdiw
 1908
-Parlament.
+Parlament. Republik
 Musala (2.925)
 Mariza
 28 Oblaste
@@ -47,7 +48,7 @@ Dänemark
 Kopenhagen
 Aarhus
 980
-Parlament.
+Königreich, Parlament. Erbmonarchie
 Mollehoj (171)
 Gudena
 5 Regionen
@@ -61,11 +62,11 @@ Zugspitze (2.962)
 Rhein
 16 Bundesländer
 Bayern, Niedersachsen
-England 
+England
 London
 Birmingham
-
-Vereinigtes
+1707 zum UK
+Teil des Vereinigten Königreichs, Parlament. Monarchie mit einem Erbmonarchen
 Scafell Pike (978)
 Themse, Severn
 39 historische Grafschaften in 9 Regionen
@@ -74,7 +75,7 @@ Estland
 Tallinn
 Tartu
 1918, 1991
-Parlament.
+Parlament. Republik
 Suur Munamägi (318)
 Vohandu
 15 Landkreise
@@ -83,7 +84,7 @@ Finnland
 Helsinki
 Espoo
 1917
-Parlament.
+Parlament. Republik
 Haltitunturi (1.328)
 Kemijoki
 6 Provinzen
@@ -91,7 +92,7 @@ Lappland
 Frankreich
 Paris
 Marseille
-
+ 
 Republik
 Mont Blanc (4.810)
 Loire
@@ -100,8 +101,8 @@ Midi-Pyrénées
 Griechenland
 Athen
 Thessaloniki
-
-Parlament.
+ 
+Parlament. Republik
 Olymp (2.917)
 Pinios
 13 Periferies
@@ -110,7 +111,7 @@ Irland
 Dublin
 Cork
 1921
-Parlament.
+Parlament. Republik
 Carrantuohill (1.041)
 Shannon
 4 Provinzen
@@ -119,7 +120,7 @@ Island
 Reykjavík
 Kópavogur
 1944
-Parlament.
+Parlament. Republik
 Hvannadalshnúkur (2.110)
 Þjórsá
 8 Regionen, 6 Wahlkreise
@@ -128,16 +129,17 @@ Italien
 Rom
 Mailand
 1861
-Parlament.
+Parlament. Republik
 Monte Bianco (4.810)
 Po
 20 Regionen
 Sizilien, Piemont
+
 Kosovo
 Priština
 Prizren
 2008
-Parlament.
+Parlament. Demokratie
 Deravica (2.656)
 Drin
 38 Gemeinde
@@ -146,7 +148,7 @@ Kroatien
 Zagreb
 Split
 1991
-Parlament.
+Parlament. Republik
 Dinara (1.831)
 Save, Drau
 21 Gespanschaften
@@ -155,16 +157,16 @@ Lettland
 Riga
 Daugavpils
 1918, 1991
-Parlament.
+Parlament. Republik
 Gaizina Kalns (310)
 Gauja
 9 Republik-Städte, 110 Bezirke
-
-Liechtenstein 
+ 
+Liechtenstein
 Vaduz (2)
 Schaan (1)
 1806
-Konstitutionelle Monarchie
+Fürstentum,
 Grauspitz (2.599)
 Rhein
 11 Gemeinden
@@ -173,16 +175,16 @@ Litauen
 Vilnius
 Kaunas
 1918, 1990
-Parlament.
+Parlament. Republik
 Aukstojas (294)
 Memel
 10 Apskritys
 Vilnius, Kaunas
-Luxemburg 
+Luxemburg
 Luxemburg
 Esch an der Alzette
 1839
-Monarchie
+Großherzogtum, Monarchie
 Kneiff (560)
 Mosel
 3 Distrikte
@@ -191,44 +193,35 @@ Malta
 Valletta
 Birkirkara
 1964
-Parlament.
+Parlament. Republik
 Ta‘ Dmejrek (258)
 –
 6 Distrikte
 Western
-(Nord-)
-Skopje
-Bitola
-1991
-Parlament.
-Maja e Korabit (2.764)
-Vardar
-8 Regionen, 84 Gemeinden
-Prilep, Kavadarci
 Moldawien
 Chișinău, 
 Tiraspol
 1991
-Parlament.
+Parlament. Republik
 Dealul Balanesti (430)
 Pruth, Dnister
 5 Munizipien, 32 Regionen
 Transnistrien (autonom)
- 
-Monaco 
+Monaco
 Monaco
 keine
 1489
-Erbmonarchie
+Fürstentum, Erbmonarchie
 Mont Agel (140)
 keiner
 9 Stadtbezirken
 Monte-Carlo
+
 Montenegro
 Podgorica
 Nikšić
 2006
-Parlament.
+Parlament. Republik
 Zla Kolata (2.534)
 Drin
 23 Gemeinden
@@ -237,7 +230,7 @@ Niederlande
 Amsterdam
 Rotterdam
 1581, 1648
-Konstitutionelle Monarchie,
+Konstitutionelle Monarchie, Parlament. Demokratie
 Mount Scenery (897 auf Insel Saba)
 Rhein, Maas
 12 Provinzen, 388 Gemeinden
@@ -245,12 +238,21 @@ Friesland, Gelderland
 Nordirland
 Belfast
 Derry
-1921
-Konstitutionelle-
+1921 zum UK
+Teil des Vereinigten Königreichs, Konstitutionelle- Parlament. Monarchie
 Slieve Donard (849)
 Bann
 6 Grafschaften und 10 Districts
 Fermanagh and Omagh,
+Nordmazedonien
+Skopje
+Bitola
+1991
+Parlament. Republik
+Maja e Korabit (2.764)
+Vardar
+8 Regionen, 84 Gemeinden
+Prilep, Kavadarci
 Norwegen
 Oslo
 Bergen
@@ -277,14 +279,13 @@ Parlament. Republik
 Rysy-Meerauge (2.499)
 Weichsel
 16 Woiwodschaften
-Masowien, Großpolen
- 
+Masowien, Großpolen, Lublin, Ermland-Masuren,Westpommern
 Portugal
 Lissabon
 Porto
 1143
 Einheitsstaatliche Republik
-Ponta do Pico (2.351 auf Azoren)
+Ponta do Pico 
 Tajo, Mondego
 5 Regionen, 18 Distrikte
 Region Alentejo, Distrikt Beja
@@ -301,7 +302,7 @@ Russland*
 Moskau
 Sankt Petersburg 
 1547, 1917, 1990
-Föderale
+Föderale Republik
 Elbrus im Kaukasus (5.642)
 Wolga, Ob 
 8 Förderationskreise, 22 Republiken,
@@ -318,8 +319,8 @@ Serravalle
 Schottland
 Edinburgh (2)
 Glasgow (1), Aberdeen (3)
-1320, 1999
-Parlament. Monarchie
+1320, 1707 zum UK
+Teil des Vereinigten Königreichs, Parlament. Monarchie
 Ben Nevis (1.345)
 Tay
 32 Council Areas
@@ -327,8 +328,8 @@ Highland, Argyll and Bute
 Schweden
 Stockholm
 Göteborg
-
-Parlament. Erbmonarchie
+ 
+Königreich, Parlament. Erbmonarchie
 Kebnekaise (2.130)
 Torne älv
 21 Provinzen
@@ -337,7 +338,7 @@ Schweiz
 Bern (5)
 Zürich (1), Genf (2)
 1499, 1648
-Föderale Republik
+Eidgenossenschaft, Föderale Republik
 Dufourspitze (4.634)
 Rhein, Aare
 26 Kantone
@@ -369,12 +370,12 @@ Triglav (2.863)
 Drau (Drave), Save
 12 Regionen
 Südost-Slowenien
-Spanien 
+Spanien
 Madrid
 Barcelona
-
-Parlament. Erbmonarchie
-Picco del Teide (3.718 auf Teneriffa), Mulhacén (3.482 auf Festland)
+ 
+Königreich, Parlament. Erbmonarchie
+Picco del Teide
 Ebro
 17 autonome Gemeinschaften (CCAA) und 50 Provinzen
 Kastilien & León, Andalusien
@@ -417,7 +418,7 @@ Dél-Alföld
 Vatikanstadt
 Vatikanstadt
 keine
-
+ 
 Wahlmonarchie
 Vatikanischer Hügel (75)
 Tiber
@@ -426,8 +427,8 @@ keine
 Wales
 Cardiff
 Swansea
-
-Konstitutionelle-
+1707 zum UK
+Teil des Vereinigten Königreichs (UK), Konstitutionelle- Parlament. Monarchie
 Snowdon (1.085)
 Severn, River Wye, Dee
 22 Principal Areas
@@ -441,12 +442,3 @@ Dserschinsk (346)
 Dnepr
 6 Bezirke, 118 Kreise (Rajone)
 Minsk, Breszkaja Woblasz
-Zypern**
-Nikosia
-Limassol
-1960
-Republik
-Olympos (1.952)
-Pedias (Pedheios)
-2-geteilte Insel
-Im Süden Republik & im Norden türkisch besetzt

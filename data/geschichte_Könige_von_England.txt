@@ -1,0 +1,563 @@
+802-1066
+ANGELSACHSEN
+ 
+ 
+ 
+ 
+ 
+802-839
+Egbert
+Ecghberht
+37
+Angelsachsen, Wessex
+69
+Winchester Cathedral
+839-856
+Ethelwulf
+Æþelwulf 
+17
+Angelsachsen, Wessex
+63
+Winchester Cathedral
+856-860
+Ethelbald
+Æþelbald 
+4
+Angelsachsen, Wessex
+29
+Sherborne Abbey
+860-865
+Ethelberht
+Æþelberht 
+5
+Angelsachsen, Wessex
+30
+Sherborne Abbey
+865-871
+Ethelred I. 
+Æþelræd 
+6
+Angelsachsen, Wessex
+34
+Wimborne
+871-899
+Alfred der Große
+Ælfred the Greatest 
+28
+Angelsachsen, Wessex
+50
+Erst in Winchester, dann verloren gegangen
+899-924
+Eduard der Ältere
+Edward I. the Elder 
+25
+Angelsachsen, Wessex
+53
+Winchester Cathedral
+924 
+Ethelweard
+Æthelweard
+0,01 
+Angelsachsen, Wessex, regierte nur wenige Tage 
+20 
+Winchester Cathedral 
+924-939
+Æthelstan
+Æþelstān 
+15
+Angelsachsen, Wessex
+44
+Malmesbury Abbey
+939-946
+Edmund der Prächtige
+Edmund I. the Elder
+7
+Angelsachsen, Wessex
+25
+Glastonbury Abbey
+946-955
+Edred
+Edred
+9
+Angelsachsen, Wessex
+32
+Winchester Cathedral
+955-959
+Eadwig
+Eadwig 
+4
+Angelsachsen, Wessex
+36
+Winchester Cathedral
+
+959-975
+Edgar der Friedfertige
+Edgar I. 
+16
+Angelsachsen, Wessex
+32
+Glastonbury Abbey
+975-978
+Eduard der Märtyrer
+Edward the Martyr 
+3
+Angelsachsen, Wessex
+16
+Brookwood, Surrey
+978-1013
+Ethelred der Unberatene
+Ethelred II. 
+37
+Angelsachsen, Wessex
+48
+St. Paul’s Cathedral, London
+1013-1014
+Sven I. Gabelbart 
+Sweyn I 
+1
+König der Dänen, herrschte 1 Jahr ohne Krönung
+54
+Roskilde Cathedral oder in St. Trinity, Lund, Norway
+1014-1016
+Ethelred der Unberatene 
+Ethelred II. 
+2
+Angelsachsen, Wessex
+48
+St. Paul’s Cathedral, London
+1016
+Edmund II. Eisenseite 
+Edmund Ironside 
+1
+Angelsachsen
+27
+Glastonbury Abbey, Somerset
+1016-1035
+Knut der Große 
+Canute the Great 
+19
+Dänen
+40
+Winchester Cathedral
+1035-1040
+Harald I. der Hasenfuß 
+Harold I. Harefoot 
+5
+Dänen
+25
+Westminster Abbey
+1040-1042
+Hardiknut
+Harthacanute 
+2
+Dänen
+24
+Winchester Cathedral
+1042-1066
+Eduard der Bekenner
+Edward the Confessor 
+24
+Angelsachsen
+64
+Westminster Abbey
+1066 (01-10)
+Harald II.
+Harold II. 
+0.8
+Angelsachsen
+44
+fiel im Kampf bei Hastings; Waltham Abbey
+1066 (10-12)
+Edgar Ætheling
+Edgar Ætheling 
+0.3
+nicht gekrönter Thronanwärter
+75
+Unbekannt
+
+1066-1154
+NORMANNEN
+ 
+ 
+ 
+ 
+ 
+1066-1087
+Wilhelm I. der Eroberer 
+William the Conqueror 
+21
+Normannen
+60
+Abbey of Saint-Étienne, Caen, France
+1087-1100
+Wilhelm II. Rufus 
+William II. Rufus 
+13
+Normannen
+44
+Winchester Cathedral
+1100-1135
+Heinrich I
+Henry I. Beauclerk 
+35
+Normannen
+67
+Reading Abbey
+1135-1141
+Stephen
+Stephen of Blois 
+6
+Normannen
+58
+Faversham Abbey
+1141
+Matilda
+Maud
+0,2
+nicht gekrönte Kaiserin für wenige Monate
+65
+Kathedrale von Rouen, F 
+1141-1154
+Stephen von Blois
+Stephen of Blois  
+13 
+Normannen 
+58 
+Faversham Abbey 
+1154-1399
+PLANTAGENET
+ 
+ 
+ 
+ 
+ 
+1154-1189
+Heinrich II. Kurzmantel
+Henry II. 
+35
+Plantagenet, angevinisches Reich
+56
+Fontevraud Abbey, France
+1170-1183
+Heinrich der Jüngere*
+Henry the young king 
+13
+*Mitkönig seines Vaters 
+28
+starb beim Aufstand gegen seinen Vater
+1189-99
+Richard I. Löwenherz
+Richard I. the Lionheart 
+10
+Plantagenet, angevinisches Reich
+42
+Fontevraud Abbey, France
+1199-1216
+Johann Ohneland
+John Lackland 
+17
+Plantagenet, angevinisches Reich
+50
+Er musste die Magna Charta unterzeichnen; Worcester Cathedral
+1216-1272
+Heinrich III.
+Henry III. 
+56
+Plantagenet
+65
+Westminster Abbey
+1272-1307
+Eduard I.
+Edward I. 
+35
+Plantagenet
+68
+Westminster
+1307-1327
+Eduard II. 
+Edward II. 
+20
+Plantagenet
+43
+Gloucester Cathedral
+1327-1377
+Eduard III. 
+Edward III. 
+50
+Plantagenet
+65
+Westminster
+1377-1399
+Richard II.
+Richard II. 
+22
+Plantagenet
+33
+Westminster
+1399-1461
+HAUS LANCASTER 
+ 
+ 
+ 
+ 
+ 
+1399-1413
+Heinrich IV. 
+Henry IV. Bolingbroke 
+14
+Haus Lancaster
+46
+Canterbury Cathedral
+1413-1422
+Heinrich V. 
+Harry of Lancaster
+9
+Haus Lancaster
+35
+Westminster
+1422-1461
+Heinrich VI.
+Henry VI.  
+39
+Haus Lancaster
+50
+Windsor Castle
+1461-1485
+HAUS YORK 
+ 
+ 
+ 
+ 
+ 
+1461-1483
+Eduard IV. 
+Edward IV. 
+22
+Haus York
+41
+Windsor Castle
+1483 (04-06)
+Eduard V. 
+Edward V. 
+0,2
+Haus York
+13
+Wurde mit Bruder eingekerkert („Die Prinzen im Tower“); Westminster
+1483-1485
+Richard III. 
+Richard III. 
+2
+Haus York
+33
+Letzter aller englische Könige, der auf dem Schlachtfeld fiel.
+1485-1603
+TUDORS
+ 
+ 
+ 
+ 
+ 
+
+1485-1509
+Heinrich VII. 
+Henry Tudor 
+24
+Tudors
+52
+Westminster Abbey
+1509-1547
+Heinrich VIII.
+Henry VIII.  
+38
+Tudors
+55
+Windsor Castle
+1547-1553
+Eduard VI.
+Edward VI.  
+6
+Tudors
+15
+Westminster Abbey
+1553
+Jane Grey 
+Lady Jane Grey, the Nine Days Queen
+0.01
+Tudors (ohne Krönung)
+17
+Church of St. Peter in Vincula, London
+1553-1558
+Maria I. 
+Queen Mary, Bloody Mary 
+5
+Tudors
+42
+Westminster Abbey
+1558-1603
+Elisabeth I.
+The Virgin
+45
+Tudors
+70
+Konflikt mit Mary Stuart; Westminster Abbey
+1603-1714
+STUARTS
+ 
+ 
+ 
+ 
+ 
+1603-1625
+Jakob I.
+James I.  
+22
+Stuarts
+59
+Westminster Abbey
+1625-1649
+Karl I.
+Charles I. 
+24
+Stuarts
+49
+Windsor Castle
+1653-1658
+Oliver Cromwell 
+Oliver Cromwell  
+5
+Commonwealth of England
+59
+Nur sein Kopf liegt in Sidney Sussex College, Cambridge
+1658-1659
+Richard Cromwell 
+Richard Cromwell  
+1
+Commonwealth of England
+86
+Hursley Parish Church, Winchester
+1660-1685
+Karl II.
+Charles II., t
+25
+Stuarts
+55
+Westminster Abbey
+1685-1688
+Jakob II. 
+James II. 
+3
+Stuarts
+68
+Church of the English Benedictines, Paris
+1689-1702
+Wilhelm III.
+William III. 
+13
+Stuarts (Gatte & Mitregent v. Maria II.)
+52
+Westminster Abbey
+1689-1694
+Maria II.
+Mary II.
+5
+Stuarts (Gattin & Mitregentin v. Wilhelm III.)
+ 
+beide englische Könige erkannten die „Bill of Rights“ an.
+1702-1714
+Anne
+Anne Stuart 
+5
+Stuarts (und ab 1707 erste Königin Großbritanniens)
+49
+1. Mai 1707 Act of Union & Gründung des Königreichs Großbritannien; Westminster Abbey
+1714-1901
+HAUS HANNOVER 
+ 
+ 
+ 
+ 
+ 
+1714-1727
+Georg I. 
+George Louis 
+13
+Haus Hannover
+67
+Hannover, Deutschland
+1727-1760
+Georg II. 
+George Augustus 
+33
+Haus Hannover
+77
+Westminster Abbey
+1760-1820
+Georg III. 
+George William Frederick 
+60
+Haus Hannover
+82
+Windsor Castle
+1820-1830
+Georg IV
+George Augustus Frederick 
+10
+Haus Hannover
+68
+Windsor Castle
+1830-1837
+Wilhelm IV. 
+William Henry 
+7
+Haus Hannover
+72
+Windsor Castle
+1837-1901
+Victoria 
+Queen Victoria 
+63,5
+Haus Hannover
+82
+Windsor Castle
+1901-heute
+HAUS WINDSOR 
+ 
+ 
+ 
+ 
+ 
+1901-1910
+Eduard VII. 
+Edward VII. 
+9
+Sachsen-Coburg und Gotha/Haus Windsor
+69
+Windsor Castle
+1910-1936
+Georg V.
+George V.  
+26
+Haus Windsor
+71
+Windsor Castle
+1936 (01-12)
+Eduard VIII.
+Edward VIII.
+0.9
+Haus Windsor
+78
+Wurde nie gekrönt und dankte nach nur einem Jahr ab. Windsor Castle
+1936-1952
+Georg VI.
+George VI.  
+16
+Haus Windsor
+57
+Windsor Castle
+2.6.1953-heute
+Elisabeth II. 
+Queen Elizabeth II. (*21.4.1926) 
+68
+Haus Windsor
+94
+Sie wurde bereits am 6.2.1952 zur Königin proklamiert. Ihr Gatte Prinz Philip starb 99-jährig am 9.4.2021. Thronfolger, Prinzen und Prinzessinnen finden Sie auf 

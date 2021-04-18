@@ -2,7 +2,7 @@ Ladogasee
 17 703 
 230 
 910 
-Russland, 
+Russland, Republik Karelien 
 Nordwestliches Russland, nördlich von St. Petersburg, an der Grenze zu Finnland, hat über 500 Inseln. 
 Onegasee
 9 720 
@@ -14,14 +14,14 @@ Kuibyschewer Stausee
 6 450 
 44
 58
-Russland, 
-Wolga-Stausee im europäischen Teil Russlands. 
+Russland, Oblast Samara 
+Ein Wolga-Stausee im europäischen Teil Russlands. 
 Vänern
 5 519
 106 
 153 
 Schweden 
-Der größte See in der Europäischen Union liegt im süd-westlichen Schweden.
+Der größte See in der 
 Rybinsker Stausee
 4 580
 18
@@ -51,13 +51,13 @@ Krementschuker Stausee
 28
 13
 Ukraine
-Dnepr-Stausee, süd-östlich von Kiew. 
+Der Dnepr-Stausee liegt süd-östlich von Kiew. 
 Kachowkaer Stausee
 2 155 
 26
 18
 Ukraine
-Dnepr-Stausee am Unterlauf der Dnepr, im Süden der Ukraine
+Ein Dnepr-Stausee im Süden der Ukraine
 Vättern
 1 886
 120 
@@ -69,13 +69,14 @@ Saratower Stausee
  
 13
 Russland
-Wolga-Stausee im europäischen Russland und Teil der Wolga-Kama-Kaskade, 1967/68 eröffnet.
+Der Wolga-Stausee im europäischen Russland ist Teil der Wolga-Kama-Kaskade, 1967/68 eröffnet.
+
 Gorkier Stausee
 1 590 
  
 9
 Russland
-Wolga-Stausee, 350 km nordöstlich von Moskau, Teil der Wolga-Kama-Kaskade.
+Der Wolga-Stausee, liegt 350 km nordöstlich von Moskau und ist Teil der Wolga-Kama-Kaskade.
 Weißer See
 1 290 
 20 
@@ -87,7 +88,7 @@ Wygosero
 18 
  
 Russland, Republik Karelien 
-Nordwestliches Russland, nördlich vom Onegasee, hat 529 Inseln.
+Nordwest-Russland, nördlich vom Onegasee, hat 529 Inseln.
 IJsselmeer
 1 137
 5
@@ -111,8 +112,8 @@ Inarijärvi
 92 
 16 
 Finnland, Lappland 
-Im Norden Finnlands (Lappland) und nördlich des Polarkreises.
- 
+In Finnlands Norden (Lappland) und nördlich des Polarkreises.
+
 Toposero
 986
 50
@@ -155,7 +156,6 @@ Imandra
  
 Russland, Oblast Murmansk
 Im äußersten Zipfel Nordwest-Russlands, nördlich des Polarkreises, im Winter zugefroren.
- 
 Pihlajavesi
 712 
 72 
@@ -168,6 +168,7 @@ Markermeer
  
 Niederlande
 Der Markerwaarddeich trennt das Markermeer vom IJseelmeer.
+
 Kaniwer Stausee
 675
 12
@@ -179,7 +180,7 @@ Pjaosero
 49 
 10 
 Russland, Republik Karelien 
-Nordwest-Russland, nahe der finnischen Grenze, nördlich vom Toposero.
+Im Nordwesten von Russland, nahe der finnischen Grenze, nördlich vom Toposero.
 Kowdosero
 608 
 56 
@@ -209,7 +210,7 @@ Dniprodserschynsker Stausee
 16
 2
 Ukraine
-Dnepr-Stausee, gebaut 1962. 
+Er ist einer der vielen Dnepr-Stauseen, gebaut 1962. 
 Haukivesi
 560 
 55 

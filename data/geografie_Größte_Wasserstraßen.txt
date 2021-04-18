@@ -1,82 +1,171 @@
 Kleiner Belt
 0,6
-das dänische Festland
+70
+die Halbinsel Jütland (dänisches Festland)
 der Insel Fünen (DEN)
+das Kattegat
+der Ostsee
 Bosporus
 0,7
+30
+die europäische Türkei
+der asiatischen Türkei
 das Schwarze Meer
-dem Marmarameer (Türkei)
+dem Marmarameer
 Dardanellen
 1,6
+65
+die europäische 
+dem asiatischen Nordwest-Anatolien (Türkei)
 die Ägäis
-dem Marmarameer (Türkei)
-Magellanstraße
-3
-das chilenische Festland
-Feuerland
-Öresund
-3
-Schweden
-der dänischen Insel Seeland
+dem Marmarameer
+Straße von Korfu
+2
+8
+die griechische Insel Korfu
+Albanien
+das Ionische Meer
+ 
 Straße von Messina
+3
+32
+Kalabrien (italienisches Festland)
+der Insel Sizilien
+das Tyrrhenische Meer
+dem Ionischen Meer
+Magellanstraße
 3,5
-das italienische Festland
-Sizilien (Italien)
+570
+das südamerikanische Festland
+der Insel Feuerland
+den Atlantik
+dem Pazifik
+Öresund
+4
+181
+Schonen (schwedisches Festland)
+der dänischen Insel Seeland
+das Kattegat
+der Ostsee
 Straße von Kertsch
 4
+40
+Halbinsel Krim (Ukraine)
+Halbinsel Taman (Russland)
 das Schwarze Meer
 dem Asowsches Meer
+
+Endeavour-Straße
+10
+50
+Kap-York-Halbinsel in Nord-Australien
+Prince-of-Wales-Insel im südlichen Papua-Neuguinea
+das Korallenmeer
+die Arafurasee
 Straße von Bonifacio
-11
+12
+ 
 die französische Insel Korsika
 der italienischen Insel Sardinien
- 
-Straße von Gibraltar
-14
-Spanien
-Marokko
+das Tyrrhenische Meer
+Mittelmeer
 Großer Belt
-16
+12
+70
 die dänische Insel Fünen
 der dänischen Insel Seeland
+das Kattegat
+der Ostsee
+
+Straße von Gibraltar
+14
+60
+Spanien (Tarifa) und Gibraltar (GB)
+Marokko und Ceuta (spanische Exklave)
+das Mittelmeer
+dem Atlantik
+Belle-Isle-Straße
+15
+125
+die Halbinsel Labrador im Osten Kanadas
+der Insel Neufundland
+den Sankt-Lorenz-Golf
+dem Atlantik
+Cookstraße
+22
+60
+die Nordinsel Neuseelands (bei Wellington)
+der Südinsel Neuseelands
+die Tasmansee
+dem Pazifik
+Nares-Straße
+24
+450
+die Ellesmere-Insel (Kanada)
+Grönland
+die Baffin Bay
+der Lincolnsee
+Sundastraße
+25,5
+200
+die Insel Sumatra (Indonesien)
+der Insel Java (Indonesien)
+Javasee
+dem Indischen Ozean
 Bab al Mandab
-18
+27
+50
+Eritrea und Dschibuti (Afrika)
+Jemen (arabische Halbinsel)
 das Rote Meer
 dem Golf von Aden
-Belle-Isle-Straße
-20
-Kanada
-der Insel Neufundland
-Sundastraße
-25
-Sumatra (Indonesien)
-Java (ebenfalls Indonesien)
+
 Ärmelkanal
-32
-Frankreich
-Großbritannien
- 
+33
+563
+Frankreich (Le Havre, Calais)
+Großbritannien (Dover, Southampton, Plymouth)
+die Nordsee
+dem Atlantik
 Straße von Malakka
-35
-Sumatra (Indonesien)
+38
+930
+die Nordostküste Sumatras (Indonesien)
 Malaysia
-Cookstraße
-35
-die Nordinsel Neuseelands
-der Südinsel Neuseelands
+die Andamanensee
+dem süd-chinesischen Meer
 Palkstraße
-60
-Südindien
-Sri Lanka
+53
+137
+Südindien (Tamil Nadu)
+der Insel Sri Lanka
+den Golf von Bengalen
+der Palkbucht
 Straße von Hormus
-63
+55
+167
+die Insel Larak (Iran)
+die Quoin-Inseln (Oman)
 den Persischen Golf
 dem Golf von Oman
+Hudsonstraße
+64
+700
+die Labrador-Halbinsel im Osten Kanadas
+Baffinland
+die Labradorsee
+die Hudson Bay
 Straße von Otranto
 71
-Italien
+ 
+Apulien (Italien)
 Albanien
+die Adria
+dem ionischen Meer
 Beringstraße
-92
+85
+ 
 Alaska (USA)
-mit Sibirien (Russland)
+Sibirien (Russland)
+die Tschuktschensee (Nordpolarmeer)
+der Beringsee (Pazifik)

@@ -39,8 +39,7 @@ Wasserkuppe
 Hessen
 Dammersfeldkuppe (928), Kreuzberg (928), Eierhauckberg (909), Hohe Hölle (894)
 Oberpfälzer Wald
-
-
+Gibacht
 938
 Bayern
 Schwarzkopf, CZ (1.042), Tillenberg, CZ (939), Entenbühl (901)
@@ -69,6 +68,7 @@ Plattenberg
 1 043
 Sachsen, Böhmen (CZ)
 Hoher Brand, D (802), Auersberg
+
 Frankenwald
 Döbraberg
 795
@@ -84,7 +84,6 @@ Taufstein
 773
 Hessen
 Hoherodskopf (764), Sieben Ahorn (752), Herchenhainer Höhe (733)
- 
 Elstergebirge
 Kapellenberg
 759
@@ -100,10 +99,10 @@ Hohe Acht
 747
 Rheinland-Pfalz
 Ernstberg (700), Schwarzer Mann (697), Botrange (694), Scharteberg (691)
+
 Elbsandstein-gebirge
 Hoher Schneeberg, 
-
-
+722
 Sachsen, Böhmen (CZ)
 Große Zschirnstein, D (561)
 Fränkische Alp, Frankenalp
@@ -136,7 +135,6 @@ Fuchskaute
 657
 Rheinland-Pfalz, Hessen, NRW
 Stegskopf (654), Salzburger Kopf (654), Höllberg (642)
- 
 Kaufunger Wald
 Hirschberg
 643
@@ -172,6 +170,7 @@ Totenkopf
 557
 Baden-Württemberg
 Eichelspitze (521)
+
 Solling
 Große Blöße
 528
@@ -186,14 +185,14 @@ Lipper Bergland
 Köterberg
 496
 Nordrhein-Westfalen
-
+ 
 Hainich
 Alter Berg
 494
 Thüringen
 Hohes Rode (493), Craulaer Kreuz (483)
 Leinebergland
-Hils
+Hils 
 480
 Niedersachsen
 Holzberg (444), Thüster Berg (441)
@@ -201,7 +200,7 @@ Kyffhäuser Wald
 Kulpenberg
 473
 Thüringen, Sachsen-Anhalt
-
+ 
 Reinhardswald
 Staufenberg
 472

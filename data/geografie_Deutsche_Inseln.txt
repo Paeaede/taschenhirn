@@ -10,6 +10,7 @@ Usedom*
 Ostsee
 Vorpommern-Greifswald und Polen
 Zinnowitz & die 3 Kaiserbäder Heringsdorf, Bansin und Ahlbeck, sowie Swinemünde (seit 1945 polnisch)
+
 Fehmarn
 185,4
 12 400
@@ -40,6 +41,7 @@ Pellworm
 Nordsee
 Nordfriesland
 Tammensiel
+
 Poel
 37,0
 2 500
@@ -94,7 +96,7 @@ Juist
 Nordsee
 Aurich
 Juist, Loog
- 
+
 Langeneß
 11,6
 136
@@ -119,7 +121,6 @@ Memmert
 Nordsee
 Aurich
  
- 
 Wangerooge
 5,0
 1 320

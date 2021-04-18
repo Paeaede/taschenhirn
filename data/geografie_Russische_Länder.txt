@@ -159,6 +159,7 @@ Südrussland
 Elista
 1920, 1992
 290 000
+
 Kaluga
 29 777  
 Oblast 
@@ -257,7 +258,6 @@ Nordwestrussland
 Sankt Petersburg
 1927
 1 717 000
- 
 Lipezk
 24 047 
 Oblast
@@ -292,7 +292,7 @@ Oblast
 Zentralrussland
 Moskau
 1929 
-7 100 000 
+12 400 000 
 Murmansk
 144 902  
 Oblast
@@ -370,6 +370,7 @@ Wolga
 Perm
 1938, 2005
 2 635 000
+
 Primorje
 164 673
 Region 
@@ -398,7 +399,6 @@ Südrussland 
 Rostow am Don 
 1937 
 4 278 000 
- 
 Sacha
 3 083 523
 Republik 
@@ -434,6 +434,7 @@ Zentralrussland 
 Smolensk 
 1937 
 986 000 
+
 Stawropol
 66 160 
 Region 
