@@ -23,12 +23,12 @@ Erde
 149,6
 365,3 Tage
 1 Tag
-
-
+12 742
 1
 1
 1
 Nein
+
 Mars
 (
 227,0
@@ -59,7 +59,6 @@ Saturn
 95,2
 62
 Ja
- 
 Uranus
 (U
 2 871
@@ -70,6 +69,7 @@ Uranus
 14,54
 27
 Ja
+
 Neptun
 (
 4 497

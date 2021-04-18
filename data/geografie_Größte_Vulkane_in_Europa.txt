@@ -9,7 +9,7 @@ Der höchste Berg Spaniens und der höchste nicht aktive Vulkan in Europa. Erstb
 Italien
 Auf Sizilien, Italien
 2018
-Größter, aktiver Vulkan in Europa und höchster Berg Siziliens. Der komplexe Schichtvulkan hat 4 Gipfelkrater und über 300 Nebenkrater. Er liegt zwischen Catania und Messina und ist fast ununterbrochen tätig.
+Größter, aktiver Vulkan in Europa und höchster Berg 
 2 829
 Pico do Fogo
 Spanien
@@ -94,13 +94,13 @@ Island
 Im Zentrum der Insel
 Unbekannt
 Spaltenvulkan, der größtenteils aus Palagonit (gelb-braunes Gesteinsglas) besteht. Er ist Teil eines vergletscherten Bergmassivs. Erstbesteigung 1911 durch den Schweizer Hermann Stoll.
+
 1 516
 Askja
 Island
 Im Osten der Insel
 1961
 Der Schichtvulkan mit drei verschachtelten Calderen liegt im Gebirge Dyngjufjöll, einem Bergmassiv im Osten des Landes.
- 
 1 488
 Hekla
 Island
@@ -131,18 +131,18 @@ Island
 Im Süden der Insel
 1955
 Einer der aktivsten Vulkane in Europa. Er liegt unter dem Gletscher Mýrdalsjökull.
+
 1 448
 Snæfellsjökull
 Island
 Westliches Island
 250 n. Chr.
 Großer, mit Eis bedeckter Stratovulkan. 1753 Erstbesteigung durch Bjarni Pálsson und Eggert Ólafsson.
- 
 1 390 
 Prestahnukur
 Island
 Im Südwesten der Insel.
-
+ 
 Der Gletschervulkan liegt zwischen dem Thorsjökull Gletscher und dem Thingvallavatn See. Heiße Quellen inklusive.
 1 281 
 Vesuv
@@ -185,7 +185,7 @@ Kaldnasi
 Island
 Im äußersten Westen der Insel
 Unbekannt
-Höchster Vulkan des vulkanischen Gebirgszugs 
+Höchster des vulkanischen Gebirgszugs 
 947
 Água de Pau
 Portugal
@@ -198,10 +198,11 @@ Island
 Im Nordosten der Insel
 500 v. Chr.
 Zentralvulkan des Vulkansystems 
+
 926
 Stromboli
 Italien
-Mittelmeer, eine der Liparischen Insel nördlich von Sizilien
+Mittelmeer, eine der 7 
 2019
 Schichtvulkan mit drei Gipfelkratern und fast täglichen Ausbrüchen. Er ist einer der aktivsten Vulkane in Europa.
 856
@@ -233,7 +234,7 @@ Monte Epomeo
 Italien
 Auf der Insel Ischia im Golf von Neapel
 1302
-
+ 
 780
 Olavtoppen
 Norwegen
@@ -251,7 +252,7 @@ Hveravellir
 Island
 Im Westen der Insel
 Unbekannt
-Schichtvulkan mit zwei Calderen unter den Gletschern Langjökull und und Hofsjökull.
+Schichtvulkan mit zwei Calderen unter den Gletschern Langjökull und Hofsjökull.
 609
 Monte Corona
 Spanien
@@ -263,7 +264,7 @@ Timanfaya 
 Spanien
 Im Südwesten der kanarischen Insel Lanzarote
 1824
-Das 5.107 ha große Vulkanfeld (mit unterirdische Hitze)  umfasst 25 Vulkane. Letzter Ausbruch war 1824 (Vulkan de Clérigo Duarte).
+Das 5.107 ha große Vulkanfeld (mit unterirdische Hitze) umfasst 25 Vulkane. Letzter Ausbruch war 1824 (Vulkan de Clérigo Duarte).
 501
 Capelinhos
 Portugal
@@ -331,15 +332,13 @@ In der Straße von Sizilien  nahe der Insel Pantelleria
 1831
 Unterwasservulkan westlich von Sizilien. Der Kegel des gesamte Vulkanmassiv wurde erst 2006 entdeckt.
 -10 bis 18
-
-
+Kolumbos
 Griechenland
 7 km nord-östlich der Kykladen-Insel Santorin
 1650
 Unterwasservulkan. Sein Ausbruch von 1650 war seit 1000 Jahren der heftigste Vulkanausbruch im östlichen Mittelmeer.
 -500
-
-
+Marsili
 Italien
 Im Tyrrhenischen Meer, nördlich von Sizilien
 Unbekannt

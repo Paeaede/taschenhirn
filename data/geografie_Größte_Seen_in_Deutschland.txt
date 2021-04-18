@@ -1,0 +1,255 @@
+Bodensee*
+536
+251
+An den Bodensee grenzen drei Staaten mit unterschiedlichen Uferlängen: Deutschland (173 km), 
+Müritz
+112,6
+31
+Die Müritz ist der größte See, der vollständig innerhalb Deutschlands liegt. Und zwar in Mecklenburg (bei Waren).
+Chiemsee
+79,9
+73
+Der Chiemsee ist der größte See in Bayern. Er liegt in Oberbayern bei Rosenheim und hat drei Inseln. Die Herreninsel 
+Schweriner See
+61,5
+52
+Westmecklenburg bei Schwerin
+Starnberger See
+56,4
+128
+Oberbayern, 25 km südwestlich von München. Wird im Volksmund auch 
+Ammersee
+47,6
+82
+Oberbayern, ca.  35 km westlich von München. Wird im Volksmund auch 
+Plauer See
+38,4
+25,5
+Liegt in Mecklenburg mit einer Nord-Süd-Ausrichtung von 14 km und einer Breite von 5 km. 
+Kummerower See
+32,9
+23
+Liegt ca. 50 km nordwestlich von Neubrandenburg in Mecklenburg. Länge: ca. 11 km. Breite: ca. 4 km.
+Steinhuder Meer
+29,1
+2,9
+Untiefer See mit maximal 2,90 m Tiefe in Niedersachsen (bei Hannover). Eignet sich daher sehr gut zum Surfen und Segeln. Länge: 8 km. Breite: 4,5 km
+Großer Plöner See
+28,4
+56
+Größter See in Schleswig-Holstein mit vielen kleinen Inseln. Teile des Sees sind seit 1992 Naturschutzgebiet.
+Schaalsee
+23,4
+71
+Mit 71 m einer der tiefsten Seen Deutschlands. Liegt auf der Landesgrenze Schleswig-Holstein und Mecklenburg und wurde 2019 zum 
+Selenter See
+21,4
+36
+In Schleswig-Holstein nahe der Ostseeküste. Länge: 8,8 km. Breite: 4,5 km.
+Kölpinsee
+20,3
+30
+Mit durchschnittlich nur 3,5 m Tiefe ein ziemlich flacher See in Mecklenburg (bei Klink). Länge: ca. 7 km, Breite: 5 km
+
+Geiseltalsee
+18,4
+78
+Der größte künstliche See Deutschlands ist ein sogenannter 
+Tollensesee
+17,9
+31
+Liegt in Mecklenburg südlich der Stadt Neubrandenburg. Länge: ca. 10 km. Breite: ca. 2,5 km. 1942 wurde von Zwangsarbeitern eine künstliche Insel (Trümmerinsel bzw. Torpedoinsel) errichtet, die für Torpedo-Tests genutzt wurde.
+Walchensee
+16,4
+190
+Zusammen mit dem Königssee ist der Walchensee der zweittiefste See Deutschlands und zugleich der größte deutsche Alpenseen. Er liegt auf 800 Metern Höhe in Oberbayern zwischen Kochel am See und Bad Tölz.
+Forggensee 
+15,2 (bei Vollstau)
+bis 40
+Der flächenmäßig größte Stausee Deutschlands liegt in Bayern (im Allgäu bei Füssen) und wird im Volksmund auch 
+Krakower See
+15,1
+28
+In Mecklenburg nördlich der Mecklenburgischen Seenplatten gelegen, mit einer Nord-Süd-Ausrichtung von ca. 9 km und einer Breite von 3 km.
+Malchiner See
+14,4
+10
+Liegt südwestlich des 
+Große Goitzschesee
+13,3
+48
+Ist ein sog. 
+Sedlitzer See
+13,3
+27
+Der künstlich angelegte See ist Teil der Seenkette 
+Schwielochsee
+13,3
+14
+Der größte Natursee Brandenburgs liegt süd-östlich von Berlin und nord-östlich des Spreewalds. In ihm liegen zahlreiche Findlinge (große Steine, die während einer Eiszeit von Gletschern bewegt wurden).
+Senftenberger See
+13,0
+25
+Gehört zur künstlich geschaffenen Seenkette 
+Bärwalder See
+13,0
+50
+Der Restsee des Tagebaus Bärwalde ist der größte See in Sachsen (bei Hoyerswerda).
+Ratzeburger See
+12,6
+24
+Liegt im süd-östlichen Schleswig-Holstein und ist Teil des Naturparks 
+Dümmer
+12,5
+2
+Der Dümmer See ist nur durchschnittlich 1,4 m Tief und wird daher zum idealen Surfer-Paradies. Er liegt in Niedersachsen bei Diepholz, Lemförde und Damme. Der Dümmer wird von der Hunte durchflossen und gespeist.
+Scharmützelsee
+12,1
+29
+Der Scharmützelsee liegt auf halber Länge zwischen Frankfurt (Oder) und Berlin in Brandenburg (bei Bad Saarow). Der 
+Edersee 
+11,8 (bei Vollstau)
+bis 41
+Der Ederstausee liegt mit seinen 48 m hohen Staumauern nahe der Stadt Waldeck im nordhessischen Landkreis Waldeck-Frankenberg.
+Fleesensee
+10,8
+6
+Der Fleesensee liegt in Mecklenburg bei Malchow.
+Möhnesee 
+10,3 (bei Vollstau)
+bis 25
+Nordrhein-Westfalen (bei Soest)
+Unteruckersee
+10,3
+19
+Brandenburg (bei Prenzlau)
+Wittensee
+9,9
+20
+Schleswig-Holstein (bei Rendsburg)
+Berzdorfer See
+9,5
+72
+Sachsen (bei Görlitz)
+Spremberger See 
+9,3 (bei Vollstau)
+bis 15
+Brandenburg (bei Cottbus)
+
+Bleiloch-Talsperre 
+9,2 (bei Vollstau)
+bis 65
+Thüringen (bei Gräfenwarth)
+Tegernsee
+9,0
+72
+Bayern (bei Rottach-Egern)
+Großer Brombachsee 
+8,7 (bei Vollstau)
+bis 33
+Bayern (bei Weißenburg)
+Biggesee 
+8,7 (bei Vollstau)
+bis 52
+Nordrhein-Westfalen (bei Olpe)
+Ruppiner See
+8,25
+23
+Brandenburg
+Dassower See
+7,9
+k.A.
+Schleswig-Holstein (bei Lübeck)
+
+Schwielowsee 
+7,9
+9
+Brandenburg
+Rurtalsperre Schwammenauel 
+7,8 (bei Vollstau)
+bis 77
+Nordrhein-Westfalen
+Goldenberger See
+7,7
+4
+Mecklenburg
+Staffelsee
+7,7
+39
+Bayern (bei Garmisch)
+Werbellinsee
+7,6
+55
+Brandenburg (bei Barnim)
+Müggelsee
+7,4
+8
+Berlin
+Hohenwarte 
+7,3 (bei Vollstau)
+k.A.
+Thüringen (bei Saalfeld)
+Drewitzer See
+6,9
+31
+Mecklenburg (bei Alt Schwerin)
+Oberuckersee
+6,9
+28
+Brandenburg (bei Warnitz)
+Westensee
+6,8
+17
+Schleswig-Holstein (bei Kiel)
+Grimnitzsee
+6,7
+11
+Brandenburg (bei Joachimsthal)
+Waginger See
+6,6
+27
+Bayern (bei Traunstein)
+Gülper See
+6,6
+3
+Brandenburg (bei Havelland)
+Simssee
+6,5
+22
+Bayern (bei Rosenheim)
+Muldestausee 
+6,3 (bei Vollstau)
+35
+Sachsen-Anhalt (rund um Friedersdorf, Schlaitz, Pouch,  Mühlbeck
+Kochelsee
+6,0
+66
+Bayern (bei Kochel)
+Kelbra 
+6,0
+7 
+Sachsen-Anhalt (am nördlichen Kyffhäuser-Gebirge)
+Ismaninger 
+5,8
+3
+Bayern (nordöstlich von München)
+Borna 
+5,7
+25
+Sachsen (südlich von Leipzig)
+Königssee
+5,2
+190
+Zusammen mit dem Walchensee ist der Königssee mit einer maximalen Tiefe von 190 Metern der zweittiefste See Deutschlands. Der Gebirgssee liegt in Bayern, genauer: im Berchtesgadener Land bei Schönau am Königssee.
+Schluchsee 
+5,1
+61
+Der größte See im Schwarzwald liegt in Baden-Württemberg.
+Stechlinsee
+4,5
+70
+Brandenburg
+Altmühlsee 
+4,5
+3
+Bayern (rund 40 km südwestlich von Nürnberg)

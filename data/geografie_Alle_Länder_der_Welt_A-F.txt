@@ -1,8 +1,8 @@
 Afghanistan
 Kabul
 Zentral-Asien
-29 800 000
-40
+38 041 000
+27
 652 225
 40
 19. August
@@ -10,7 +10,7 @@ Zentral-Asien
 Ägypten
 Kairo
 Nordost-Afrika
-87 200 000
+100 400 000
 14
 1 001 449
 29
@@ -19,8 +19,8 @@ Nordost-Afrika
 Albanien
 Tirana
 Südost-Europa
-2 800 000
-133
+2 880 000
+136
 28 748
 140
 28. November
@@ -28,17 +28,17 @@ Südost-Europa
 Algerien
 Algier
 Nord-Afrika
-38 700 000
+43 050 000
 34
 2 381 741
 10
 1. November
 1962
-Andorra,
+Andorra, 
 Andorra la Vella
 Südwest-Europa
-76 000
-186
+77 000
+184
 467
 181
 8. September
@@ -46,8 +46,8 @@ Südwest-Europa
 Angola
 Luanda
 Südwest-Afrika
-24 300 000
-59
+31 825 000
+45
 1 246 700
 22
 11. November
@@ -55,17 +55,17 @@ Südwest-Afrika
 Antigua & Barbuda,
 St. John‘s
 Karibik
-85 600
-184
+97 100
+183
 442
 183
 1. November
 1981
-Äquatorial-
+Äquatorial-guinea
 Malabo
 Zentral-Afrika
-1 220 000
-161
+1 356 000
+150
 28 051
 141
 12. Oktober
@@ -73,7 +73,7 @@ Zentral-Afrika
 Argentinien
 Buenos Aires
 Süd-Amerika
-43 000 000
+44 780 000
 31
 2 780 400
 8
@@ -82,17 +82,18 @@ Süd-Amerika
 Armenien
 Eriwan
 Vorder-Asien
-3 000 000
+2 957 000
 134
 29 800
 139
 21. September
 1918, 1991
+
 Aserbaidschan
 Baku
 Vorder-Asien
-9 600 000
-90
+10 047 000
+89
 86 600
 111
 28. Mai
@@ -100,7 +101,7 @@ Vorder-Asien
 Äthiopien, 
 Addis Abeba
 Nordost-Afrika
-96 600 000
+112 600 000
 15
 1 133 380
 26
@@ -109,8 +110,8 @@ Nordost-Afrika
 Australien
 Canberra
 Ozeanien
-23 630 000
-52
+25 200 000
+55
 7 692 000
 6
 26. Januar
@@ -118,35 +119,36 @@ Ozeanien
 Bahamas
 Nassau
 Karibik
-354 000
+389 500
 170
 13 939
 156
 10. Juli
 1973
-Bahrain,
+Bahrain, 
 Manama
 Vorder-Asien
-1 300 000
-158
+1 641 000
+148
 716
 176
 16. Dezember
 1971
-Bangladesch,
+Bangladesch, 
 Dhaka
 Süd-Asien
-160 000 000
-7
+163 050 000
+8
 147 570
 92
 26. März
 1971
+
 Barbados
 Bridgetown
 Karibik
-278 000
-174
+287 000
+173
 430
 184
 30. November
@@ -154,8 +156,8 @@ Karibik
 Belgien, 
 Brüssel
 West-Europa
-11 270 000
-76
+11 540 000
+78
 32 545
 137
 21. Juli
@@ -163,17 +165,17 @@ West-Europa
 Belize
 Belmopan
 Mittel-Amerika
-328 000
-171
+390 300
+169
 22 966
 148
 21. September
 1981
 Benin, 
-Porto Novo*
+Porto Novo* (RS= Cotonou)
 West-Afrika
-10 600 000
-89
+11 801 000
+76
 112 622
 100
 1. August
@@ -181,36 +183,35 @@ West-Afrika
 Bhutan, 
 Thimphu
 Süd-Asien
-742 000
+763 100
 160
 38 394
 133
 17. Dezember
 1949
 Bolivien
-Sucre*
+Sucre* (RS=La Paz)
 Süd-Amerika
-10 630 000
-85
+11 513 000
+80
 1 098 581
 27
 6. August
 1825
-Bosnien 
+Bosnien und Herzegowina
 Sarajevo
 Südost-Europa
-3 790 000
-126
+3 301 000
+132
 51 129
 125
 9. Jan. & 1. März
 1992
- 
 Botswana, 
 Gaborone
 Süd-Afrika
-2 020 000
-144
+2 303 700
+141
 581 730
 47
 30. September
@@ -218,8 +219,8 @@ Süd-Afrika
 Brasilien
 Brasilia
 Süd-Amerika
-205 500 000
-5
+211 500 000
+6
 8 547 400
 5
 7. September
@@ -227,26 +228,27 @@ Süd-Amerika
 Brunei, 
 Bandar Seri Begawan
 Südost-Asien
-423 000
-169
+433 300
+168
 5 765
 165
 23. Februar
 1984
+
 Bulgarien
 Sofia
 Südost-Europa
-7 200 000
-95
+7 000 000
+105
 110 912
 102
 3. März
 1878, 1908
-Burkina Faso,
+Burkina Faso, 
 Ouagadougou
 West-Afrika
-18 930 000
-63
+20 320 000
+58
 274 200
 73
 11. Dezember
@@ -254,8 +256,8 @@ West-Afrika
 Burundi, 
 Bujumbura
 Ost-Afrika
-10 560 000
-92
+11 530 000
+79
 27 834
 142
 1. Juli
@@ -263,16 +265,16 @@ Ost-Afrika
 Chile
 Santiago de Chile
 Süd-Amerika
-18 000 000
-60
+18 952 000
+61
 756 626
 37
 18. September
 1816
-China,
+China, 
 Peking
 Ost-Asien
-1 367 000 000
+1 433 000 000
 1
 9 572 400
 4
@@ -281,7 +283,7 @@ Ost-Asien
 Costa Rica
 San José
 Mittel-Amerika
-4 770 000
+5 047 000
 118
 51 100
 126
@@ -290,18 +292,17 @@ Mittel-Amerika
 Dänemark,
 Kopenhagen
 Nord-Europa
-5 700 000
-109
+5 771 900
+113
 43 098
 130
 5. Juni
-
- 
+ 
 Deutschland
 Berlin
 Mittel-Europa
-82 175 700
-16
+83 517 000
+17
 357 050
 63
 3. Oktober
@@ -309,8 +310,8 @@ Mittel-Europa
 Dominica
 Roseau
 Karibik
-72 500
-187
+71 800
+185
 751
 174
 3. November
@@ -318,16 +319,16 @@ Karibik
 Dominikanische Republik
 Santo Domingo
 Karibik
-10 460 000
-80
+10 739 000
+84
 48 671
 128
 27. Februar
 1844
-Dschibuti,
+Dschibuti, 
 Dschibuti
 Nordost-Afrika
-792 000
+973 600
 156
 23 200
 147
@@ -336,8 +337,8 @@ Nordost-Afrika
 Ecuador
 Quito
 Süd-Amerika
-16 000 000
-68
+17 373 000
+66
 256 370
 76
 10. August
@@ -345,8 +346,8 @@ Süd-Amerika
 Elfenbeinküste
 Yamoussoukro
 West-Afrika
-23 300 000
-55
+25 716 500
+53
 322 462
 68
 7. August
@@ -354,8 +355,8 @@ West-Afrika
 El Salvador
 San Salvador
 Mittel-Amerika
-7 330 000
-105
+6 453 000
+109
 21 041
 149
 15. September
@@ -363,8 +364,8 @@ Mittel-Amerika
 Eritrea
 Asmara
 Nordost-Afrika
-6 380 000
-114
+3 497 000
+130
 121 144
 97
 24. Mai
@@ -372,12 +373,21 @@ Nordost-Afrika
 Estland
 Tallinn (Reval)
 Nordost-Europa
-1 316 000
-150
+1 325 600
+151
 45 227
 129
 24. Februar
 1918, 1991
+Eswatini, 
+Mbabane*
+Südafrika
+1 450 000
+155
+17 363
+154
+6. September
+1968
 Fidschi
 Suva
 Ozeanien, Polynesien
@@ -390,8 +400,8 @@ Ozeanien, Polynesien
 Finnland
 Helsinki
 Nord-Europa
-5 480 000
-111
+5 532 000
+114
 390 920
 60
 6. Dezember
@@ -399,9 +409,9 @@ Nord-Europa
 Frankreich
 Paris
 West-Europa
-66 318 000
-21
+65 130 000
+22
 543 965
 48
 14. Juli
-
+ 

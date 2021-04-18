@@ -1,8 +1,8 @@
 Gabun
 Libreville
 Zentral-Afrika
-1 640 000
-148
+2 172 600
+142
 267 667
 75
 17. August
@@ -11,8 +11,8 @@ Franc, Centimes
 Gambia
 Banjul
 West-Afrika
-1 714 000
-146
+2 347 700
+140
 11 295
 160
 18. Februar
@@ -21,8 +21,8 @@ Dalasi, Bututs
 Georgien
 Tiflis
 Vorder-Asien
-3 730 000
-123
+3 996 800
+129
 69 700
 119
 26. Mai
@@ -31,8 +31,8 @@ Lari, Tetri
 Ghana, 
 Accra
 West-Afrika
-25 900 000
-48
+30 417 900
+46
 238 533
 79
 6. März
@@ -41,8 +41,8 @@ Cedi, Pesewas
 Grenada,
 St. George’s
 Karibik
-107 850
-181
+112 000
+179
 344
 186
 7. Februar
@@ -51,8 +51,8 @@ Karibik-Dollar, Cent
 Griechenland
 Athen
 Südost-Europa
-11 000 000
-73
+10 473 500
+86
 131 957
 95
 25. März & 28. Oktober
@@ -61,18 +61,18 @@ Euro, Cent
 Großbritannien &
 London
 West-Europa
-64 600 000
-22
+67 530 200
+21
 248 528
 78
 2ter Samstag im Juni
-
+ 
 Pfund, Pence
 Guatemala
 Guatemala
 Mittel-Amerika
-12 730 000
-67
+17 581 500
+65
 108 889
 104
 15. September
@@ -81,8 +81,8 @@ Quetzal, Centav.
 Guinea
 Conakry
 West-Afrika
-11 470 000
-81
+12 771 300
+74
 245 857
 77
 2. Oktober
@@ -91,8 +91,8 @@ Guinea-Franc
 Guinea-Bissau
 Bissau
 West-Afrika
-1 450 000
-147
+1 921 000
+146
 36 125
 134
 24. September
@@ -101,7 +101,7 @@ CFA-Franc, Cent
 Guyana
 Georgetown
 Süd-Amerika
-735 500
+782 775
 159
 214 969
 83
@@ -111,7 +111,7 @@ Guyana-Dollar, Cent
 Haiti, 
 Port-au-Prince
 Karibik
-10 600 000
+11 263 100
 82
 27 750
 143
@@ -121,8 +121,8 @@ Gourde, Centimes
 Honduras
 Tegucigalpa
 Mittel-Amerika
-8 600 000
-96
+9 746 000
+92
 112 492
 101
 15. September
@@ -131,7 +131,7 @@ Lempira, Centav.
 Indien
 Neu-Delhi
 Süd-Asien
-1 210 550 000
+1 366 417 800
 2
 3 287 263
 7
@@ -141,7 +141,7 @@ Rupie, Paise
 Indonesien
 Jakarta
 Südost-Asien
-237 550 000
+270 625 600
 4
 1 912 988
 14
@@ -151,8 +151,8 @@ Rupiah, Sen
 Irak
 Bagdad
 Vorder-Asien
-36 070 000
-39
+39 309 800
+36
 438 317
 58
 14. Juli
@@ -161,28 +161,29 @@ Dinar, Fils
 Iran
 Teheran
 Vorder-Asien
-75 150 000
-18
+82 913 900
+19
 1 648 000
 17
 12. Februar
-
+ 
 Rial, Dinar
 Irland
 Dublin
 West-Europa
-4 600 000
-119
+4 882 500
+121
 70 273
 118
 17. März (
 1922
 Euro, Cent
+
 Island
 Reykjavik
 Nord-Europa
-334 300
-172
+339 000
+171
 103 000
 105
 17. Juni
@@ -191,8 +192,8 @@ Isl.-Krone, Aurar
 Israel
 Jerusalem
 Vorder-Asien
-8 370 000
-97
+8 519 400
+100
 20 991
 150
 5. Iljar
@@ -201,18 +202,18 @@ Schekel, Agorot
 Italien
 Rom
 Süd-Europa
-60 666 000
+60 550 100
 23
 301 336
 71
 25. April und 2. Juni
-
+ 
 Euro, Cent
 Jamaika
 Kingston
 Karibik
-2 950 000
-137
+2 948 300
+135
 10 991
 161
 6. August
@@ -221,18 +222,19 @@ Jam.-Dollar, Cent
 Japan
 Tokio
 Ost-Asien
-127 110 000
-10
+126 860 300
+11
 377 837
 62
 23. Februar
-
+ 
 Yen, Sen
+
 Jemen,
 Sanaa
 Vorder-Asien
-25 410 000
-49
+29 161 900
+48
 536 869
 49
 22. Mai
@@ -241,8 +243,8 @@ Rial, Fils
 Jordanien, 
 Amman
 Vorder-Asien
-9 530 000
-106
+10 101 700
+88
 89 342
 110
 25. Mai
@@ -251,8 +253,8 @@ Dinar, Fils
 Kambodscha, 
 Phnom Penh
 Südost-Asien
-15 330 000
-66
+16 486 600
+69
 181 035
 88
 9. November
@@ -261,18 +263,19 @@ Riel, Kak, Sen
 Kamerun
 Yaoundé
 Zentral-Afrika
-20 550 000
-58
+25 876 400
+52
 475 442
 54
 20. Mai
 1960
 Franc, Centimes
+
 Kanada
 Ottawa
 Nord-Amerika
-36 050 000
-36
+37 411 100
+39
 9 984 670
 2
 1. Juli
@@ -281,8 +284,8 @@ Kan.-Dollar, Cent
 Kap Verde
 Praia
 West-Afrika
-524 000
-166
+550 000
+165
 4 036
 167
 5. Juli
@@ -291,8 +294,8 @@ Escudo, Centav.
 Kasachstan, 
 Nursultan
 Zentral-Asien
-17 740 000
-62
+18 551 400
+63
 2 724 900
 9
 25. Oktober
@@ -301,8 +304,8 @@ Tenge, Tiin
 Katar, 
 Doha
 Vorder-Asien
-2 155 000
-149
+2 832 100
+137
 11 437
 159
 3. September
@@ -311,8 +314,8 @@ Riyal, Dirham
 Kenia
 Nairobi
 Ost-Afrika
-45 010 000
-32
+52 574 000
+27
 582 646
 46
 12. Dezember
@@ -321,8 +324,8 @@ K-Schilling, Cent
 Kirgisistan
 Bischkek
 Zentral-Asien
-5 552 000
-112
+6 415 800
+110
 199 900
 85
 31. August
@@ -331,8 +334,8 @@ Som, Tyin
 Kiribati, 
 Bairiki
 Ozeanien, Polynesien
-103 000
-183
+117 600
+177
 811
 173
 12. Juli
@@ -341,20 +344,19 @@ Austr.-Dollar, Cent
 Kolumbien, 
 Bogotá
 Süd-Amerika
-48 000 000
+50 339 500
 29
 1 141 748
 25
 20. Juli
 1810
 Peso, Centavos
- 
 Komoren
 Moroni
-Ost-Afrika
-766 900
-162
-1 862
+Ost-Afrika, Indischer Ozean
+882 000
+158
+2 236
 171
 6. Juli
 1975
@@ -362,8 +364,8 @@ Kom.-Franc, Centim.
 Kongo, 
 Kinshasa
 Zentral-Afrika
-79 380 000
-20
+86 790 600
+16
 2 344 885
 11
 30. Juni
@@ -372,8 +374,8 @@ Kon.-Franc, Centim.
 Kongo, 
 Brazzaville
 Zentral-Afrika
-4 126 000
-127
+5 380 500
+116
 342 000
 64
 15. August
@@ -382,8 +384,8 @@ CFA-Franc, Cent
 Korea, Nord
 Pjöngjang
 Ost-Asien
-24 050 000
-47
+25 666 200
+54
 122 762
 96
 9. September
@@ -392,8 +394,8 @@ Won, Chon
 Korea, Süd
 Seoul
 Ost-Asien
-51 500 000
-26
+51 225 400
+28
 99 313
 106
 15. August
@@ -412,8 +414,8 @@ Euro, Cent
 Kroatien
 Zagreb
 Mittel-Europa
-4 225 300
-120
+4 130 300
+127
 56 542
 124
 25. Juni
@@ -422,8 +424,8 @@ Euro, Cent
 Kuba
 Havanna
 Karibik
-11 240 000
-75
+11 333 500
+81
 110 860
 103
 1. Januar
@@ -432,8 +434,8 @@ Peso, Centavos
 Kuwait
 Kuwait
 Vorder-Asien
-3 000 000
-136
+4 207 100
+126
 17 818
 153
 25. Februar
@@ -442,8 +444,8 @@ Kuwait-Dinar, Fils
 Laos
 Vientiane
 Südost-Asien
-6 770 000
-104
+7 169 500
+103
 236 800
 82
 2. Dezember
@@ -452,8 +454,8 @@ Kip
 Lesotho, 
 Maseru
 Süd-Afrika
-1 930 000
-141
+2 125 300
+143
 30 355
 138
 4. Oktober
@@ -462,8 +464,8 @@ Loti, Lisente
 Lettland
 Riga
 Nordost-Europa
-1 980 000
-139
+1 906 700
+147
 64 589
 122
 18. November
@@ -472,8 +474,8 @@ Lats, Santim
 Libanon
 Beirut
 Vorder-Asien
-6 184 000
-124
+6 855 700
+106
 10 452
 163
 22. November
@@ -482,8 +484,8 @@ Lib.-Pfund, Piaster
 Liberia
 Monrovia
 West-Afrika
-4 090 000
-125
+4 937 400
+120
 111 369
 107
 26. Juli
@@ -492,8 +494,8 @@ Liber.-Dollar, Cent
 Libyen
 Tripolis
 Nord-Afrika
-6 412 000
-102
+6 777 500
+107
 1 775 500
 16
 1. September
@@ -502,8 +504,8 @@ Liby.-Dinar, Dirham
 Liechtenstein, 
 Vaduz
 Mittel-Europa
-37 500
-191
+38 000
+189
 160
 191
 15. August
@@ -512,8 +514,8 @@ Franken, Rappen
 Litauen
 Vilnius (Wilna)
 Nordost-Europa
-2 885 000
-131
+2 759 600
+138
 65 301
 121
 16. Februar und 11. März
@@ -522,8 +524,8 @@ Litas, Centai
 Luxemburg, 
 Luxemburg
 West-Europa
-576 000
-167
+615 700
+163
 2 586
 169
 23. Juni
@@ -532,8 +534,8 @@ Euro, Cent
 Madagaskar
 Antananarivo
 Südost-Afrika
-23 570 000
-57
+26 969 300
+51
 587 041
 45
 26. Juni
@@ -542,19 +544,18 @@ Ariary, Iraimbila
 Malawi, 
 Lilongwe
 Südost-Afrika
-16 362 000
-65
+18 628 800
+62
 118 484
 99
 6. Juli
 1964
 Malawi-Kwacha
- 
-Malaysia, 
+Malaysia
 Kuala Lumpur* (RS=Putrajaya)
 Südost-Asien
-28 335 000
-45
+31 949 800
+44
 329 733
 66
 31. August
@@ -563,8 +564,8 @@ Ringgit, Sen
 Malediven
 Male
 Süd-Asien
-344 000
-173
+531 000
+166
 298
 188
 26. Juli
@@ -573,8 +574,8 @@ Rufiyaa, Laari
 Mali, 
 Bamako
 West-Afrika
-14 517 000
-69
+19 658 000
+59
 1 240 192
 23
 22. September
@@ -583,8 +584,8 @@ CFA-Franc, Cent
 Malta
 Valletta
 Süd-Europa
-430 150
-168
+440 400
+167
 316
 187
 21. September
@@ -593,8 +594,8 @@ Malt.-Lira, Cent
 Marokko, 
 Rabat
 Nordwest-Afrika
-33 500 000
-38
+36 471 800
+40
 458 730
 55
 2. März und 30. Juli
@@ -603,8 +604,8 @@ Dirham, Centimes
 Marshallinseln
 Dalap-Uliga-Darrit
 Ozeanien, Polynesien
-72 200
-188
+58 800
+186
 181
 190
 1. Mai und 21. Oktober
@@ -613,8 +614,8 @@ US-Dollar, Cent
 Mauretanien
 Nouakchott
 Nordwest-Afrika
-3 600 000
-132
+4 525 700
+124
 1 030 700
 28
 28. November
@@ -623,47 +624,37 @@ Ouguiya, Khoum
 Mauritius
 Port Louis
 Indischer Ozean vor Afrika
-1 300 000
-152
+1 269 600
+153
 2 040
 170
 12. März
 1968
 Maur.-Rupie, Cent
-(Nord-)
-Skopje
-Südost-Europa
-2 066 000
-143
-25 713
-146
-2. August und 8. September
-1991
-Denar, Deni
 Mexiko,
 Mexiko
 Nord-Amerika
-120 300 000
-11
+127 575 600
+10
 1 953 162
 13
 16. September
 1810, 1821
 Peso, Centavos
-Mikronesien, 
+Mikronesien
 Palikir
 Ozeanien, Polynesien
-544 000
-179
+113 800
+178
 700
 178
 3. November
 1990
 US-Dollar, Cent
-Moldawien 
+Moldau 
 Chisinau
 Südost-Europa
-3 154 000
+4 043 300
 128
 33 800
 136
@@ -673,8 +664,8 @@ Leu, Bani
 Monaco, 
 Monaco
 Südwest-Europa
-37 800
-191
+38 900
+188
 2
 195
 19. November
@@ -683,18 +674,18 @@ Euro, Cent
 Mongolei
 Ulan-Bator
 Zentral-Asien
-2 993 000
-138
+3 225 200
+133
 1 564 100
 18
 11. Juli
-
+ 
 Tugrik, Mongo
 Montenegro
 Podgorica
 Südost-Europa
-625 000
-163
+628 000
+162
 13 812
 157
 13. Juli
@@ -703,18 +694,18 @@ Euro, Cent
 Mosambik
 Maputo, 
 Südost-Afrika
-25 300 000
-51
+30 366 100
+47
 801 590
 34
 25. Juni
 1975
 Metical, Centav.
-Myanmar, 
+Myanmar, 
 Nay Pyi Taw
 Südost-Asien
-51 420 000
-24
+54 045 500
+26
 676 552
 39
 4. Januar
@@ -723,18 +714,18 @@ Kyat, Pyas
 Namibia, 
 Windhoek
 Südwest-Afrika
-2 113 000
-140
+2 494 600
+139
 824 116
 33
 21. März
 1990
 Nam.-Dollar, Cent
-Nauru, 
+Nauru
 Yaren
 Ozeanien, Polynesien
-10 080
-194
+10 764
+193
 21
 194
 31. Januar
@@ -743,17 +734,17 @@ Aus.-Dollar, Cent
 Nepal
 Kathmandu
 Süd-Asien
-26 500 000
-41
+28 608 700
+49
 147 181
 93
 28. Mai
-
+ 
 Nepal-Rupie, Paisa
 Neuseeland
 Wellington
 Ozeanien
-4 510 000
+4 783 100
 122
 270 534
 74
@@ -763,18 +754,18 @@ Neusee.-Dollar, Cent
 Nicaragua
 Managua
 Mittel-Amerika
-5 908 000
-107
+6 545 500
+108
 120 254
 98
 15. September
 1821
 Córdoba, Centimes
-Niederlande, 
+Niederlande
 Amsterdam*
 West-Europa
-16 900 000
-61
+17 097 200
+67
 41 526
 131
 27. April (Koningsdag)
@@ -783,8 +774,8 @@ Euro, Cent
 Niger
 Niamey
 West-Afrika
-17 130 000
-64
+23 310 700
+56
 1 267 000
 21
 18. Dezember
@@ -793,18 +784,28 @@ CFA-Franc, Cent
 Nigeria
 Abuja
 West-Afrika
-177 155 000
-8
+200 963 600
+7
 923 768
 31
 1. Oktober
 1960
 Naira, Kobo
+Nordmazedonien
+Skopje
+Südost-Europa
+2 083 500
+144
+25 713
+146
+2. August und 8. September
+1991
+Denar, Deni
 Norwegen
 Oslo
 Nord-Europa
-5 205 000
-116
+5 378 900
+117
 323 759
 67
 17. Mai
@@ -813,8 +814,8 @@ Norw.-Krone, Øre
 Oman, 
 Maskat
 Vorder-Asien
-4 400 000
-135
+4 975 000
+119
 309 500
 70
 18. November
@@ -823,18 +824,18 @@ Rial, Baizas
 Österreich
 Wien
 Mittel-Europa
-8 700 000
-91
+8 955 100
+96
 83 879
 112
 26. Oktober
-
+ 
 Euro, Cent
 Osttimor 
 Dili
 Südost-Asien
-1 167 000
-154
+1 293 100
+152
 14 604
 155
 28. November

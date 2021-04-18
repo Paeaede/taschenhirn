@@ -46,6 +46,7 @@ Anden, Bolivien 
 unbekannt
 4.10.1939 durch  Wilfrid Kühm und Joseph Prem. 
 Der (erloschene) Schichtvulkan ist auch der höchste Berg Boliviens.
+
 6.532
 El Cóndor
 Anden, Puna de Atacama, Chile 
@@ -118,6 +119,7 @@ Anden, Atacama, Nord-Chile 
 vor ca. 170.000 Jahren 
 unbekannt
 Heiliger Berg der Inkas mit Schwefel-Mine. Abbau seit 1913. 
+
 6.152
 Cumbre del Laudo
 Anden, Argentinien, nahe Grenze zu Chile
@@ -220,7 +222,7 @@ Anden, Chile, Atacama 
 unbekannt
 unbekannt
 Schichtvulkan bei Antofagasta. 
- 
+
 5.890
 Falso Azufre
 Anden, Argentinien
@@ -359,7 +361,6 @@ Zentral-Mexiko 
 unbekannt
 1889 
 Schichtvulkan mit drei Gipfeln. Die Mexikaner sehen darin Kopf, Brust und Füße einer schlafenden Frau. 
- 
 5.230
 Sangay
 Anden, Ecuador

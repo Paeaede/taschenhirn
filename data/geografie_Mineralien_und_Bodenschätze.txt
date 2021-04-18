@@ -6,14 +6,15 @@ Arsen
 rot oder gelb
 Harz, Erzgebirge, USA, RUS
 Als Zusatzstoff in Arzneimittel, aber auch als Bestandteil in Halbleitern.
+
 Bauxit
 ocker, braun
 Südfrankreich, USA, RUS
-Feuerfestes Material; zur Herstellung von Aluminium; auch als Schleifmittel.
-Beryll
+Feuerfestes Material. Zur Herstellung von Aluminium, auch als Schleifmittel.
+Beryll(i
 variabel
 Mitteleuropa
-Leichtes Material; wird in Legierungen mit Kupfer und Nickel verwendet.
+Für Legierungen mit Kupfer und Nickel. Leichtes Material, dass oft im Flugzeugbau verwendet wird. Besonders schöne Beryll-Kristalle werden auch zu Schmucksteine (Smaragde und Opale).
 Blei
 schwarz
 Australien, Mitteleuropa
@@ -26,6 +27,11 @@ Chrom
 silberweiß
 Südafrika, Kasachstan
 Als Verschleißschutz auf Stahl, Gusseisen, Kupfer und Aluminium.
+Cobalt
+schwarz-silbrig (oft mit Nickel & Kupfer)
+Demokratische Repulik Kongo, Sambia
+Legierungen und Bestandteile von Batterien und Akkus
+
 Eisen
 gelb oder schwarz
 China, Japan, RUS, USA
@@ -38,11 +44,11 @@ Kali
 orange-rot, hellbraun
 RUS, China, USA, Europa
 Kalisalze werden hauptsächlich als Düngemittel verwendet.
+
 Kupfer
 gelb, schwarz, grün
 Chile, USA, RUS, Sambia
 Elektrokabel; auch zur Herstellung von Bronze-, Messing- u.a. Legierungen.
- 
 Nickel
 silbermetallisch
 RUS, Australien, Kanada
@@ -51,7 +57,6 @@ Quarz
 farblos, glasglänzend
 fast überall
 In Porzellan und Keramikstoffen; für Uhren, Computer und Bildschirme.
- 
 Quecksilber
 silberweiß, flüssig
 Italien, Spanien, Serbien

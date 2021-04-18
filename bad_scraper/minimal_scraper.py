@@ -11,7 +11,8 @@ Also the data is currently not stored in a db or xml like structured relations b
 - a lot hardcoded stuff (e.g. page names, div + paragraph ids etc... only tested with "geografie" category
 - only tables (if tablenames follow the pattern of geografie) are scraped. Additional texts not
 '''
-import requests, bs4
+
+import requests
 from bs4 import BeautifulSoup
 
 
@@ -25,7 +26,7 @@ def crawl_category(category_name: str):
     '''
     url = 'https://www.taschenhirn.de/' + category_name + '/'
     page = requests.get(url)
-    soup = BeautifulSoup(page.text, 'html.parser')
+    soup = BeautifulSoup(page.content, 'html.parser')
 #    print(soup.prettify())
     # create dictionary of subpages to crawl data from:
     subpages = {}
@@ -35,11 +36,9 @@ def crawl_category(category_name: str):
 
     # loop over subpages:
     for key, value in subpages.items():
-#        print(key)
-#        print(value)
         suburl = value
         subpage = requests.get(suburl)
-        subsoup = BeautifulSoup(subpage.text, 'html.parser')
+        subsoup = BeautifulSoup(subpage.content, 'html.parser')
 
         # retrieve tables into lists:
         table_data = subsoup.find('table', {'class' : 'dataList'})
@@ -55,7 +54,7 @@ def crawl_category(category_name: str):
         key = key.replace('&', 'und')
         key = key.replace('?', '')
         key = key.replace(' ', '_')
-        with open('./data/' + category_name + '_' +key + '.txt', 'w', encoding='utf-8') as f:
+        with open('./data/' + category_name + '_' +key + '.txt', 'w') as f:
             for tr in rows:
                 cols = tr.findAll('td')
                 for td in cols:
@@ -69,6 +68,6 @@ def crawl_category(category_name: str):
             f.write(store)
 
 if __name__=='__main__':
-    category_name = 'mensch-und-natur' # geografie
+    category_name = 'geografie'#'geografie' # geografie
     crawl_category(category_name)
 

@@ -20,7 +20,7 @@ Juneau
 Kanada
 Arizona
 Grand Canyon State
-Süd-Westen,
+Süd-Westen, Mexico
 Phoenix
 1912
 6 392 000
@@ -90,7 +90,7 @@ Atlanta
 North Carolina (NO), South Carolina (O), Florida (S), Alabama (W), Tennessee (NW)
 Hawaii
 Aloha State
-Pazifik,
+Pazifik, Polynesien
 Honolulu
 1959
 1 360 000
@@ -100,7 +100,7 @@ Honolulu
 Die 8 Inseln Hawaii, Oʻahu, Maui, Kauaʻi, Molokaʻi, Lānaʻi, Niʻihau und Kahoʻolawe
 Idaho
 Gem State
-Nord-Westen,
+Nord-Westen, Kanada
 Boise
 1890
 1 567 000
@@ -108,6 +108,7 @@ Boise
 216 632
 14
 Kanada (N), Montana (NO), Wyoming (O), Utah (S), Nevada (SW), Oregon (W), Washington (NW)
+
 Illinois
 Land of Lincoln
 Östliches Zentrum, Lake Michigan
@@ -158,6 +159,7 @@ Topeka
 213 283
 15
 Nebraska (N), Missouri (O), Oklahoma (S), Colorado (W)
+
 Kentucky
 Bluegrass State
 Mittlerer Osten
@@ -198,6 +200,7 @@ Annapolis
 32 133
 42
 Pennsylvania (N), Delaware (O), Virginia (SW), Washington D.C. (W), West Virginia (NW)
+
 Massachusetts
 Bay State
 Nord-Ost-Küste, Atlantik
@@ -208,7 +211,6 @@ Boston
 27 336
 44
 New Hampshire (N), Rhode Island (SO), Connecticut (SW), New York (W), Vermont (NW)
- 
 Michigan
 Great Lakes State
 Norden, Kanada, Lake Superior, Michigansee, Huronsee, Eriesee
@@ -251,7 +253,7 @@ Jefferson City
 Iowa (N), Illinois (NO), Kentucky (O), Tennessee (SO), Arkansas (S), Oklahoma (SW), Kansas (W), Nebraska (NW)
 Montana
 Treasure State
-Nord-Westen,
+Nord-Westen, Kanada
 Helena
 1889
 989 400
@@ -339,7 +341,6 @@ Bismarck
 183 112
 19
 Kanada (N), Minnesota (O), South Dakota (S), Montana (W)
- 
 Ohio
 Buckeye State
 Nord-Osten, Eriesee
@@ -442,7 +443,7 @@ Salt Lake City
 Wyoming (NO), Colorado (O), New Mexico (SO), Arizona (S), Nevada (W), Idaho (NW)
 Vermont
 Green Mountain State
-Nord-Osten/
+Nord-Osten/ Kanada
 Montpelier
 1791
 626 000

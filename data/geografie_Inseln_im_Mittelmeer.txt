@@ -109,7 +109,7 @@ Griechenland
 478
 34 000
 Samos-Stadt (Vathy)
-südliche Sporaden
+Südliche Sporaden
 Limnos
 Griechenland
 Thrakischen Meer
@@ -159,6 +159,7 @@ nördliche Ägäis (Thrakische Meer)
 13 700
 Limenas
  
+
 Andros
 Griechenland
 Ägäis
@@ -173,6 +174,7 @@ südliche Ägäis
 6 489
 Karpathos-Stadt
 Dodekanes
+
 Hvar
 Kroatien
 südliche Adria
@@ -222,14 +224,13 @@ südliche Adria
 16 200
 Korcula-Stadt
  
- 
 Ikaria
 Griechenland
 östliche Ägäis
 254
 8 350
 Agios Kirykos
-südliche Sporaden
+Südliche Sporaden
 Malta
 Republik
 Mittelmeer
@@ -244,6 +245,13 @@ Toscana
 32 000
 Portoferraio
  
+Skyros
+Griechenland
+östliche Ägäis
+223
+2 000
+Skyros
+Nördliche Sporaden
 Paros
 Griechenland
 Ägäis
@@ -258,6 +266,7 @@ Griechenland
 8 100
 Tinos-Stadt
 Kykladen
+
 Samothraki
 Griechenland
 Thrakischen Meer
@@ -286,6 +295,13 @@ Griechenland
 16 500
 Pothia
 Dodekanes
+Alonnisos
+Griechenland
+östliche Ägäis
+130
+2 800
+Patitiri
+Nördliche Sporaden
 Amorgos
 Griechenland
 südliche Ägäis
@@ -306,7 +322,7 @@ südliche Ägäis
 114
 1 400
 Chora Astypalea
-südliche Sporaden
+Südliche Sporaden
 Dugi Otok
 Kroatien
 mittlere Adria
@@ -342,6 +358,13 @@ südliche Adria
 1 100
 Babino Polje
  
+Skopelos
+Griechenland
+östliche  Ägäis
+96
+5 000
+Skopelos
+Nördliche Sporaden
 Santorin
 Griechenland
 südliche Ägäis
@@ -349,7 +372,6 @@ südliche Ägäis
 13 400
 Thira
 Kykladen
- 
 Rab
 Kroatien
 nördliche Adria
@@ -412,7 +434,7 @@ Griechenland
 74
 8 200
 Agia Marina
-südliche Sporaden
+Südliche Sporaden
 Kasos
 Griechenland
 südliche Ägäis
@@ -462,6 +484,13 @@ Griechenland
 928
 Mandraki
 Dodekanes
+Skiathos
+Griechenland
+östliche Ägäis
+50
+6 200
+Skiathos
+Nördliche Sporaden
 Ischia
 Italien
 Golf von Neapel
@@ -475,7 +504,7 @@ südliche Ägäis
 45
 3 000
 Chora Patmos
-südliche Sporaden
+Südliche Sporaden
 Sikinos
 Griechenland
 südliche Ägäis
@@ -496,7 +525,7 @@ Griechenland
 37
 313
 Chalki
-südliche Sporaden
+Südliche Sporaden
 Folegandros
 Griechenland
 südliche Ägäis

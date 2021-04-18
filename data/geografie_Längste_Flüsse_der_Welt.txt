@@ -2,7 +2,7 @@ Nil
 6.671
 Weißer Nil:
 Mittelmeer (nördlich von Kairo)
-Ruanda, Burundi, Tansania, Uganda, Südsudan, Sudan, Ägypten
+Ruanda, Burundi, Tansania, Uganda, Südsudan, Sudan, Ägypten 
 Kairo, Luxor, Assuan, Khartum, Malakei
 Amazonas*
 6.437*
@@ -62,7 +62,7 @@ Jenissei
 4.092
 Zusammenfluss von kleinem & großem Jenissei (Sajangebirge, RUS)
 Nordpolarmeer (Karasee)
-Russland (
+Russland (Sibirien)
 Kysyl, Tschernogorsk, Abakan, Krasnojarsk
 Paraná
 3.990
@@ -74,7 +74,7 @@ Mississippi
 3.766
 Lake Itasca (Minnesota)
 Golf von Mexiko (New Orleans)
-USA (Minnesota, Illinois, Missouri, 
+USA (Minnesota, Illinois, Missouri, Kentucky, Arkansas, Tennessee, Mississippi, Louisiana)
 Minneapolis, St. Louis, Memphis, Baton Rouge, New Orleans
 Ob
 3.670
@@ -82,6 +82,7 @@ Zusammenfluss von Bija & Katun (Altaigebirge, RUS)
 Obbusen (Karasee)
 Russland (West-Sibirien)
 Bijsk, Barnaul, Novosibirsk, Surgut
+
 Wolga
 3.530
 Waldaihöhen (RUS)
@@ -136,7 +137,6 @@ Tibet (VR China)
 Indischer Ozean (Andamanensee)
 Tibet, VR China, Myanmar, Thailand
 Liuku, Mawlamyaing
- 
 Donau
 2.845
 Zusammenfluss von Brigach & Breg bei Donaueschingen, Schwarzwald (D)
@@ -171,7 +171,7 @@ Wiljui
 2.650
 Mittelsibirisches Bergland
 Lena
-Russland (Sibirien, 
+Russland (Sibirien, Jakutien)
 Njurba, Wiljuisk
 Ganges
 2.620
@@ -191,6 +191,7 @@ Marsh Lake, Coast Mountains (CAN)
 Beringmeer (Alaska)
 Kanada, USA (Alaska)
 Whitehorse, Dawson, Eagle, Tanana, Nulato
+
 Rio Paraguay
 2.549
 Mato Grosso (Brasilien)
@@ -203,12 +204,13 @@ Serra Geral do Parana (BR)
 Atlantik (Rio Pará)
 Brasilien (Goiás, Tocantins, Maranhao, Pará)
 Marabá, Tucuruí
+
 Pilcomayo
 2.490
 Poopò-See (BOL)
 Rio Paraguay (bei Asunción)
 Bolivien, Paraguay, Argentinien
-
+ 
 Ischim
 2.450
 Kasachische Schwelle
@@ -249,9 +251,8 @@ Aldan
 2.274
 Stanowoigebirge (RUS)
 In die Lena
-Russland (
+Russland (Jakutien)
 Tommot, Chandyga
- 
 Rio Negro
 2.253
 Zusammenfluss von Rio Guainía & Rio Casiquiare (Amazonas-Gebiet)
@@ -317,7 +318,7 @@ Rio Xingu
 Zusammenfluss von Rio Ronur & Rio Culuene (BRA)
 Amazonas
 Brasilien
-
+ 
 Red River
 1.966
 Great Plains (Texas)
