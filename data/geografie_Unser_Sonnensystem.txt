@@ -1,13 +1,13 @@
 Sonne
 Unser Sonnensystem hat einen Stern: die Sonne
-Unser Sonnensystem hat ein Zentrum, die Sonne. Um sie herum kreisen 8 Planeten (mit insgesamt 185 Monden) und 5 Zwergplaneten. Verglichen mit anderen Sternen ist sie Ø groß („Gelber Zwerg“) und Ø alt (4,57 Mrd. Jahre). Ihre Masse entspricht dem 770-fachen aller 8 
+Unser Sonnensystem hat ein Zentrum, die Sonne. Um sie herum kreisen 8 Planeten (mit insgesamt 185 Monden) und 5 Zwergplaneten. Verglichen mit anderen Sternen ist sie Ø groß („Gelber Zwerg“) und Ø alt (4,57 Mrd. Jahre). Ihre Masse entspricht dem 770-fachen aller 8 Planeten und dem 330.000-fachen der Erdmasse. Ihr 
 Merkur 
 Der schnellste Planet mit dem längsten Tag
 Wegen seiner Nähe zur Sonne (ca. 58 Mio. km) kann er nur schwer beobachten werden. Bis heute hat ihn erst eine Raumsonde besucht, die Mariner 10 im Jahre 1974. Seine Oberfläche – nur 45 % sind uns bekannt – ist mit vielen Kratern übersät. In der Atmosphäre herrschen extreme Temperaturschwankungen. Eine Umdrehung um die eigene Achse dauert 58,6 Erdentage. Mit 87,9 Tagen Umlaufzeit um die Sonne ist er der schnellste Planet in unserem Sonnensystem.
-
-
+Venus
 Heißer Planet mit vielen Vulkane
 Die Venus ist – nach Sonne und Mond – der hellste Himmelskörper in unserer Milchstraße. Aufgrund dieser Helligkeit wurde der Planet auch nach der 
+
 Erde
 Der „blaue Planet“ mit viel Dichte und 71 % Wasser
 Die Erde ist der dichteste Planet in unserem Sonnensystem. Sie ist ca. 
@@ -17,23 +17,23 @@ Aufgrund einer blutroten Farbe wurde er nach dem
 Asteroiden-gürtel
 Schließt die Lücke zwischen Mars und Jupiter
 Unser Sonnensystem trägt einen Gürtel. Zwischen Mars und Jupiter existiert eine größere „Planetenlücke“, in der ein Asteroidengürtel, auch Hauptgürtel genannt, liegt. In ihm kreisen ca. 90 % aller uns bekannten Asteroiden sowie der folglich genannte Zwergplanet 
+
 Ceres
 Der Zwergplanet im Asteroidengürtel
 Ceres kreist zwischen Mars und Jupiter im oben beschriebenen Asteroidengürtel. Entdeckt wurde er (eher zufällig) in der Neujahrsnacht 1801 vom Sizilianer Giuseppe Piazzi, der ihn als Planet einstufte. Aus gesundheitlichen Gründen verlor er Ceres wieder aus den Augen, doch etwa ein Jahr später konnte er mit der Bahnberechnung des Mathematikers Carl Friedrich Gauss wieder gefunden werden. Ceres hat einen Äquatordurchmesser von 975 km. Piazzi benannte ihn nach der römischen Götting des Ackerbaus.
 Jupiter
 Das größte Schwergewicht mit rotem Tornado
 Er ist der größte und schwerste Planet in unserer Milchstraße. In den Gasriesen aus Wasserstoff würde die 
- 
 Saturn
 Der zweitgrößte Planet mit Ring und geringer Dichte
 Ähnlich wie der Jupiter ist auch dieser zweitgrößte Planet (95-fache Erdmasse) ein Gasriese aus ca. 96 % Wasserstoff. Er ist noch gut mit bloßem Auge erkennbar – und daher der Menschheit schon seit Jahrtausenden bekannt. Seine Ringe bestehen hauptsächlich aus Wassereis und Staubpartikel, entdeckt hat sie 1636 der Astronom 
 Uranus
 Der Eisriese mit ungewöhnlich starker Achsenneigung
 Aufgrund seiner großen Entfernung ist der drittgrößte Planet unserer Galaxie nur schwer zu erforschen. Wilhelm Herschel hat ihn 1781 entdeckt und benannte ihn nach dem 
+
 Neptun
 Der stürmige Eisplanet mit blaugrünem Methan
 Der von der Sonne am weitesten entfernte (4,5 Milliarden km) blaugrüne „Eisplanet“ wurde 1846 vom Astronom Johann Gottfried Galle entdeckt. Seine Farbe hat er vom 2%-igen Methan-Anteil in seiner Atmosphäre, die größtenteils aus Wasserstoff (79 %) und Helium (19 %) besteht. Über seine Oberfläche jagen starke Winde von bis zu 2.100 km/h (= höchste je gemessene Windgeschwindigkeit in unserem Sonnensystem). Um ihn herum kreisen 
- 
 Pluto
 Der kleinste Planet, der seit 2006 ein Zwergplanet ist
 Unser Sonnensystem hat seit etwa 10 Jahren nur noch 8 Planeten. Denn der kleinste Planet Pluto wurde am 24. August 2006 zum „Zwergplaneten“ degradiert, obwohl er das größte Objekt im Kuipergürtel ist. Von allen anderen Planeten ist er am weitesten von der Sonne entfernt, Sonnenlicht ist daher auf seiner Oberfläche kaum vorhanden. Seine Sonnenumrundung dauert lächerliche 247 Jahre. Ansonsten weiß man (noch) nicht allzu viel über diesen Eisplaneten mit bis zu -270° C., der erst 1930 entdeckt wurde und 2015 erstmals Besuch von der Raumsonde „New Horizons“ bekam. Um Pluto kreisen 
@@ -51,4 +51,4 @@ Der „zehnte“ Planet mit der längsten Sonnenumlaufzeit
 Der Zwergplanet ist etwas größer als Pluto und benötigt ganze 560 Jahre für eine Sonnenumrundung. Entdeckt wurde er im Juli 2005 von Mike Brown, Chad Trujillo und David Rabinowitz. Seinen Name verdankt er der 
 Oortsche Wolke
 Unser Sonnensystem und dessen äußerer Rand
-Alles hat ein Ende, auch unser Sonnensystem. Noch weit jenseits des Kuipergürtels gelegen, schwebt die Oortsche Wolke (nach dem niederländischen Astronom Jan Hendrik Oort benannt, der sie 1950 nachweisen konnte). Sie wird in Fachkreisen auch „Öpik-Oort-Wolke“ genannt, da Ernst Öpik bereits 1932 die Theorie einer „Staubwolke“ entwickelte, in der vermutlich Billionen Objekte kreisen. Mehr über unser Sonnensystem erfahren Sie auf den Seiten „
+Alles hat ein Ende, auch das Sonnensystem. Noch weit jenseits des Kuipergürtels gelegen, schwebt die Oortsche Wolke (nach dem niederländischen Astronom Jan Hendrik Oort benannt, der sie 1950 nachweisen konnte). Sie wird in Fachkreisen auch „Öpik-Oort-Wolke“ genannt, da Ernst Öpik bereits 1932 die Theorie einer „Staubwolke“ entwickelte, in der vermutlich Billionen Objekte kreisen. Astronomen vermuten, dass in der sogenannten inneren Oortschen Wolke ca. 900 Himmelskörper mit Durchmessern von mehr als 1000 km kreisen, darunter auch weitere Zwergplaneten. Mehr über unser Sonnensystem erfahren Sie auf den Seiten „

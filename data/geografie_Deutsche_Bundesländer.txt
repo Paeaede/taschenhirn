@@ -1,7 +1,7 @@
-Baden-Württemberg
-11 023 400
-308
-35 752
+Baden-Württemberg 
+11 069 500
+310
+35 751
 10,01
 Stuttgart
 Feldberg (1.493)
@@ -9,18 +9,18 @@ Bodensee (155 km Ufer), Schluchsee (5,1)
 Winfried Kretschmann, GRÜNE
 GRÜNE + CDU
 Bayern 
-13 003 200
-184
+13 124 700
+186
 70 552
 19,76
 München
 Zugspitze (2.962)
 Bodensee (18 km Ufer), Chiemsee (79,9)
 Markus Söder, CSU
-CSU + ?
+CSU + Freie Wähler
 Berlin 
-3 613 500
-4 052
+3 669 500
+4 115
 892
 0,25
 Stadtstaat
@@ -28,29 +28,31 @@ Arkenberge (120,7)
 Müggelsee (7,4), Tegeler See (4,5)
 Michael Müller, SPD
 SPD, LINKE + GRÜNE
-Brandenburg
-2 494 700
-84
+
+Brandenburg 
+2 521 900
+85
 29 479
 8,26
 Potsdam
 Heidehöhe (201,4)
 Schwielochsee (13,3), Senftenberger See (13.0)
 Dietmar Woidke, SPD
-SPD + LINKE
+SPD + CDU + GRÜNE
 Bremen
-681 000
+681 200
 1 624
 404
 0,11
 Stadtstaat
 Friedehorstpark (33)
 Sportparksee Grambke (0,5)
-Carsten Sieling, SPD
-SPD + GRÜNE
+Andreas Bovenschulte, SPD
+SPD + GRÜNE + LINKE
+
 Hamburg,
-1 830 600
-2 424
+1 845 000
+2 443
 755
 0,21
 Stadtstaat
@@ -59,8 +61,8 @@ Bramfelder See (0,45)
 Peter Tschentscher, SPD
 SPD + GRÜNE
 Hessen 
-6 243 200
-294
+6 288 100
+298
 21 155
 5,91
 Wiesbaden
@@ -69,7 +71,7 @@ Edersee (11,8)
 Volker Bouffier, CDU
 CDU + GRÜNE
 Mecklenburg-Vorpommern 
-1 609 600
+1 608 100
 69
 23 180
 6,49
@@ -78,10 +80,9 @@ Helpter Berge (179)
 Müritz (112,6), Schweriner See (61,5)
 Manuela Schwesig, SPD
 SPD + CDU
- 
 Niedersachsen 
-7 962 500
-167
+7 993 600
+168
 47 624
 13,34
 Hannover
@@ -89,9 +90,10 @@ Wurmberg (971)
 Steinhuder Meer (29,1), Dümmer (12,5)
 Stephan Weil, SPD
 SPD + CDU
+
 Nordrhein-Westfalen 
-17 894 200
-525
+17 947 200
+526
 34 085
 9,55
 Düsseldorf
@@ -100,19 +102,18 @@ Möhnesee (10,4 bei Stauziel), Biggesee (8,8)
 Armin Laschet, CDU
 CDU + FDP
 Rheinland-Pfalz 
-4 077 600
-205
+4 093 900
+206
 19 853
 5,56
 Mainz
 Erbeskopf (816)
 Laacher See (3,3)
 Maria Luise „Malu“ Dreyer, SPD
-SPD, FDP + GRÜNE
- 
+SPD + FDP + GRÜNE
 Saarland 
-994 200
-387
+986 900
+384
 2 569
 0,72
 Saarbrücken
@@ -121,49 +122,49 @@ Bostalsee (1,2)
 Tobias Hans, CDU
 CDU + SPD
 Sachsen 
-4 081 300
+4 071 900
 221
-18 416
+18 450
 5,16
 Dresden
 Fichtelberg (1.215)
-Große Goitzschesee (13,3),
+Große Goitzschesee (13,3), Bärwalder See (13)
 Michael Kretschmer, CDU
-CDU + SPD
+CDU + SPD + BÜNDNIS 90/ GRÜNE
 Sachsen-Anhalt
-2 236 200
-109
+2 194 800
+107
 20 446
 5,73
 Magdeburg
 Brocken (1.141)
 Geiseltalsee (18,4), Arendsee (5,1)
 Reiner Haseloff, CDU
-CDU, SPD + GRÜNE
+CDU + SPD + GRÜNE
 Schleswig-Holstein 
-2 889 800
-182
+2 903 800
+184
 15 799
 4,42
 Kiel
 Bungsberg (167)
 Großer Plöner See (28,4), Selenter See (21,4)
 Daniel Günther, CDU
-CDU, FDP + GRÜNE
+CDU + GRÜNE + FDP
 Thüringen 
-2 151 200
-133
+2 133 400
+132
 16 172
 4,53
 Erfurt
 Großer Beerberg (982)
 Bleiloch-Talsperre (9,2)
-Bodo Ramelow, LINKE
-LINKE, SPD + GRÜNE
+Bodo Ramelow, Die Linke
+DIE LINKE + SPD + GRÜNE
 DEUTSCHLAND gesamt
-82 792 350
-232
-357 385,7
+83 166 700
+233
+357 582
 100
 Berlin
 Zugspitze (2.962)

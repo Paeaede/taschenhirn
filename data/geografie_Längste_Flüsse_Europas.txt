@@ -5,7 +5,7 @@ Kaspisches Meer
 Russland
 Twer, Jaroslawl, Nischni Nowgorod, Kasan, Toljatti, Samara, Wolgagrad
 Donau
-2 845
+2 857
 Zusammenfluss von Brigach & Breg bei Donaueschingen, Schwarzwald (D)
 Schwarzes Meer (bei Tulcea, Rumänien)
 D, AUT, SK, UNG, KRO, SERB, RUM, BUL, MOL, UKR
@@ -34,6 +34,7 @@ Nördlicher Ural (asia-europ. Grenze, RUS)
 Petschorasee (Nordpolarmeer)
 Russland
 Petschora, Narjan-Mar
+
 Kama
 1 805
 Kamahöhen (Europäischer Teil von RUS)
@@ -46,6 +47,7 @@ Bei Glasunowka
 Wolga (bei Nischni Nowgorod)
 Russland 
 Orjol, Kaluga, Serpuchow, Kolomna, Rjasan, Murom, Dserschinsk 
+
 Belaja
 1 430
 Südlicher 
@@ -87,6 +89,7 @@ Nördlich von Belgorod (RUS)
 Don (bei Ust-Donezki)
 Russland, Ukraine, Russland
 Belgorod, Lyssytschansk, Sjewjerodonezk
+
 Weichsel
 1 047
 Schlesische Beskiden (POL)
@@ -129,7 +132,6 @@ Zusammenfluss von Sava Bohinjka & Sava Dolinka bei Radovljica
 Donau bei Belgrad (SERB)
 Slowenien, Kroatien, Bosnien-Herzegowina, Serbien 
 Ljubljana, Zagreb, Belgrad  
- 
 Memel
 937
 Südwestlich von Minsk (Weißrussland)
@@ -214,7 +216,6 @@ Galizien, West-Ukraine bei Lemberg
 Narew (bei Warschau)
 Ukraine, Weißrussland, Polen
 Brest, Warschau
- 
 Mures
 766
 Ostkarpaten, bei Harghita, RUM

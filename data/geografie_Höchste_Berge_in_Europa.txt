@@ -1,7 +1,7 @@
 Elbrus (Eurasien)
 5.642
 Kaukasus, RUS
-28.07.1874
+28.7.1874
 Frederick Gardinger, Florence Grove, Horace Walker (GB), Peter Knubel (CH)
 Dychtau (Eurasien)
 5.204
@@ -13,115 +13,156 @@ Schchara (Eurasien)
 Kaukasus
 Sept. 1888
 John Cockin (GB), Ulrich Almer, C. Roth
+Koschtantau (Eurasien)
+5.145
+Kaukasus, RUS
+unbekannt
+unbekannt
+Pik Puschkin (Eurasien)
+5.100
+Kaukasus, RUS
+unbekannt
+unbekannt
+Dzhangitau (Eurasien)
+5.085
+Kaukasus, RUS
+unbekannt
+unbekannt
 Kasbek (Eurasien)
 5.047
 Kaukasus, RUS
 1868
 Douglas W. Freshfield, Adolphus Warburton Moore, Charles C. Tucker (GB)
+
+Mizhrgi (Eurasien)
+5.025
+Kaukasus, RUS
+unbekannt
+unbekannt
 Mont Blanc
 4.810
 Savoyer Alpen, F/IT
-08.08.1786
+8.8.1786
 Jacques Balmat und Michel-Gabriel Paccard (F)
 Dufourspitze 
 4.634
 Walliser Alpen, CH/IT
-01.08.1855
+1.8.1855
 Charles Hudson, Birkbeck, Stephenson & Smyth-Brüder (GB)
- 
+
 Zumsteinspitze
 4.563
 Walliser Alpen
-01.08.1820
+1.8.1820
 Joseph & Johann Vincent, Joseph Zumstein, Molinatti und Castel
 Signalkuppe
 4.559
 Walliser Alpen, CH/IT
-09.08.1842
+9.8.1842
 Giovanni Gnifetti (IT)
 Dom
 4.545
 Walliser Alpen, CH
-11.09.1858
+11.9.1858
 J. Llewellyn Davies, Johann Zumtaugwald, Johann Kronig & Hieronymus Brantschen
 Liskamm
 4.527
 Walliser Alpen, CH/IT
-19.08.1861
+19.8.1861
 Großexpedition von insgesamt 14 Bergsteigern
 Weishorn
 4.505
 Walliser Alpen, CH
-19.08.1861
+19.8.1861
 John Tyndall, Johann Joseph Brennen und Ulrich Wenger
 Täschhorn
 4.491
 Walliser Alpen, CH/IT
-30.07.1862
+30.7.1862
 Stefan & Johann Zumtaugwald, J. Davies, J. Hayward & P.-J. Summermatter
- 
 Matterhorn
 4.478
 Walliser Alpen, CH/IT
-14.07.1865
+14.7.1865
 Edward Whymper, Vater Taugwalder & Sohn Peter überlebten die Erstbesteigung. Auf dem Rückweg starben die Engländer Charles Hudson, D. Hadow, Lord F. Douglas und der Franzose Michel Croz.
 Finsteraarhorn
 4.247
 Berner Alpen, CH
-16.08.1812
+16.8.1812
 Arnold Abbühl, Joseph Bortis und Alois Volker
 Grandes Jorasses
 4.208
 Savoyer Alpne, F/IT
-30.06.1868
+30.6.1868
 Horace Walker, Melchior Anderegg, J. Jaun, J. Grange
+
 Alphubel
 4.206
 Walliser Alpen, CH
-09.08.1860
+9.8.1860
 Melchior Anderegg & Peter Perren (CH), T. Hinchliff & Leslie Stephen (GB)
 Aletschhorn
 4.193
 Walliser Alpen, CH
-18.06.1859
+18.6.1859
 Johann Bennen, Peter Bohren, V. Tairraz (CH) & Francis Fox Tuckett (GB)
 Strahlhorn
 4.190
 Walliser Alpen, CH
-15.08.1854
+15.8.1854
 Christoph Smyth, Ulrich Lauener, Edmund J. Grenville und Franz-Joseph Andenmatten
+Breithorn 
+4.164
+Walliser Alpen, Aostatal, IT
+13.8.1813
+Joseph-Marie Couttet, Jean Gras, Jean-Baptiste Erin, Jean-Jacques Erin, Henry Maynard
 Jungfrau
 4.158
 Berner Alpen, CH
-03.08.1811
+3.8.1811
 Johann Rudolf, Hieronymus Meyer, Joseph Bortis und Alois Volken
 Aiguille Verte
 4.122
 Savoyer Alpen
-29.06.1865
+29.6.1865
 Edward Whymper, Christian Almer und Franz Biner
 Barre des Écrins
 4.102
 Dauphiné-Alpen, F
-25.06.1864
+25.6.1864
 Adolphus Moore, Horace Walker, Edward Whymper, Chr. Almer, Michel Croz
 Mönch
 4.099
 Berner Alpen, CH
-15.08.1857
+15.8.1857
 Christian Almer, Christian Kaufmann, Ullrich Kaufmann, Sigismund Porges
 Grand Paradiso
 4.061
 Aostatal
-04.09.1860
+4.9.1860
 John Jeremy Cowell, W. Dundas, Michel-Clément Payot, Jean Tairraz
 Piz Bernina
 4.048
 Ostalpen, CH
-13.09.1850
+13.9.1850
 Johann Wilhelm Coaz, Jon und Lorenz Ragut Tscharner
+Allalinhorn
+4.027
+Walliser Alpen, Mischabel, CH
+28.8.1856
+Edward Levi Ames (GB), Franz Josef Andenmatten sowie ein Mitglied der Familie Imseng (beide CH)
+Weissmies
+4.023
+Walliser Alpen. bei Saas-Grund, CH
+August 1855
+Jakob Christian Heusser und Peter Joseph Zurbriggen (beide CH)
+Lagginhorn
+4.010
+Walliser Alpen, CH
+26.8.1856
+Edward Levi Ames (GB), Franz-Josef Andenmatten und Johann Josef Imseng (beide CH)
 Piz Zupò
 3.996
 Ostalpen, CH/IT
-09.07.1863
+9.7.1863
 L. Enderlin, Pfarrer Otto Serardy, Jäger Padrutt

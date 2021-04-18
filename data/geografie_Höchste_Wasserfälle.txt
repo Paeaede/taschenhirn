@@ -1,99 +1,99 @@
 Angelfall
 979
  807
-Der „Salto Angel“ wurde 1933 vom US Buschpiloten Jimmie Angel (wieder)entdeckt.
+Der „Salto Angel“ wurde 1933 vom US Buschpiloten Jimmie Angel wiederentdeckt. 23 Jahre zuvor entdeckte der erste „Weiße“ – ein venezolanischer Goldsucher namens Ernesto Sánchez La Cruz – die Wasserfälle 1910.
 Rio Churún
 Venezuela
 Tugelafall
 948
  411
-Liegt im KwaZulu-Natal-Nationalpark in den Drakensbergen
+Liegt im KwaZulu-Natal-Nationalpark in den Drakensbergen.
 Tugela
 Südafrika
 Tres Hermanas
 914
  183
-Liegt unzugänglich mitten im Dschungel; mehrere Kaskaden
+Liegt unzugänglich mitten im Dschungel. Lauf des Wassers über mehrere Kaskaden.
  
 Ayacucho, Peru
 Oloupena Falls
 900
  
-Liegt auf der Insel Molokai; mehrere Kaskaden
+Liegt auf der Insel Molokai. Der Fluss fällt über mehrere Kaskaden in die Tiefe.
  
 Hawaii, USA
 Yumbilla
 870
  
-Führt nur zur Regenzeit Wasser; 4 Kaskaden
+Führt nur zur Regenzeit Wasser. 4 Kaskaden.
  
 Bongará, Peru
 Skorge (Skorga)
 865
  
-Nur im Frühjahr nach der Schneeschmelze; 9 Kaskaden
+Nur im Frühjahr nach der Schneeschmelze. 9 Kaskaden.
 Kald-Gletscher
 Norwegen
 Vinnufossen
 860
 730
-Nur im Frühjahr nach der Schneeschmelze; mehrere Kaskaden
+Nur im Frühjahr nach der Schneeschmelze. Schmelzwasser fällt über mehrere Kaskaden.
 Vinnu-Gletscher 
 Norwegen 
- 
 James Bruce Fall
 840
  
-Dutzende Kaskaden stürzen sich in British Colombia in die Tiefe
+Dutzende Kaskaden stürzen sich in British Colombia in die Tiefe.
 Gletscher
 Kanada
+
 Browne Falls
 836
  244
-Das Wasser fällt in 6 Kaskaden in den Doubtful Sound (Süd-Insel)
+Das Wasser fällt in 6 Kaskaden in den Doubtful Sound (Süd-Insel).
 Lake Browne
 Neuseeland
 Colonial Creek 
 783
  
-In 13 Stufen fällt das Wasser in die Tiefe
+In 13 Stufen fällt das Wasser in die Tiefe.
 Colonial Gletscher
 Washington, USA
 Mongefossen
 773
 773
-Kann nach der Schneeschmelz vom Bahnhof Marstein bestaunt werden
+Kann nach der Schneeschmelz vom Bahnhof Marstein bestaunt werden.
 Gletscher
 Norwegen
 Gocta Fälle
 771
 540
-Wurde 2002 von Stefan Ziemendorff (deutscher Entwicklungshelfer) wiederentdeckt
+Wurde 2002 von Stefan Ziemendorff (deutscher Entwicklungshelfer) wiederentdeckt.
 Cocahuayco
 Bongará, Peru
 Johannesburg Falls
 751
 244
-Liegt im North Cascades National Park; 5 Kaskaden
+Liegt im North Cascades National Park. 5 Kaskaden.
 Gletscher
 Washington, USA
 Yosemite Falls
 739
 436
-In über 6 Kaskaden fällt Wasser in den Merced River
+In über 6 Kaskaden fällt Wasser in den Merced River.
 Yosemite Creek
 Kalifornien, USA
+
 Trou de Fer
 725
 305
-Auf deutsch: „Eisenloch“. Fällt in 4 Stufen
+Auf deutsch: „Eisenloch“. Wasser fällt in 4 Stufen.
  
 La Réunion, FRA
- 
 Yutajé 
 715
  
-Liegt tief im Dschungel und ist kaum erforscht; 2 Kaskaden
+Liegt tief im Dschungel und ist kaum erforscht; 2 Kaskaden.
 Rio Yutajé
 Venezuela
 Salto Kukenan
@@ -111,7 +111,7 @@ La Réunion, FRA
 Seerenbachfälle
 585
 305
-Liegt bei Betlis am Walensee; 3 Stufen
+Liegt bei Betlis am Walensee. Das Wasser fällt in 3 Stufen in die Tiefe.
 Rinquelle
 Schweiz
 Mutarazi Falls
@@ -120,6 +120,13 @@ Mutarazi Falls
 Fällt in zwei parallelen Strömen in das Honde Valley.
 Mtarazi
 Simbabwe
+
+Röthbachfall
+470
+240
+Höchster Wasserfall Deutschlands. Er stürzt in zwei Hauptstufen über eine senkrechte Wand in den Talkessel (südlich des Königssees). Gesamthöhe inkl. des Sturzbachabschnitts.
+Röthbach
+Bayern, LK Berchtesgadener Land
 Im Vergleich:
  
  
@@ -135,7 +142,7 @@ Simbabwe, Sambia
 Iguacufälle
 82
  
-20 große und 255 kleinere Fälle auf 2,7 km Länge
+20 große und 255 kleinere Fälle auf 2,7 km Länge.
 Rio Iguacu
 Brasilien, Argentinien
 Niagarafälle
@@ -147,6 +154,6 @@ USA, Kanada
 Rheinfall
 23
  
-150 Meter breit. In der Nähe von Schaffhausen (CH)
+150 Meter breit. In der Nähe von Schaffhausen (CH).
 Rhein
 Schweiz

@@ -1,8 +1,8 @@
 Pakistan
 Islamabad
 Asien, Süd
-200 800 000
-6
+216 565 300
+5
 796 095
 35
 23. März und 14. August
@@ -11,8 +11,8 @@ Pak.-Rupie, Paisa
 Palau, 
 Melekeok
 Ozeanien, Polynesien
-17 660
-193
+18 000
+191
 508
 180
 1. Oktober
@@ -21,8 +21,8 @@ US-Dollar, Cent
 Panama
 Panama
 Mittelamerika
-4 100 000
-129
+4 246 500
+125
 75 517
 116
 3. November
@@ -31,8 +31,8 @@ Balbao, Centés.
 Papua-Neuguinea, 
 Port Moresby
 Ozeanien
-8 250 000
-100
+8 776 200
+97
 462 840
 54
 16. September
@@ -41,8 +41,8 @@ Kina, Toea
 Paraguay
 Asunción
 Südamerika
-6 940 000
-103
+7 044 700
+104
 406 752
 59
 15. Mai
@@ -51,8 +51,8 @@ Guarani, Centi.
 Peru
 Lima
 Südamerika
-31 250 000
-42
+32 510 500
+43
 1 285 216
 19
 28. Juli
@@ -61,8 +61,8 @@ Neuer Sol, Cent.
 Philippinen
 Manila
 Asien, Süd-Ost
-106 500 000
-12
+108 116 700
+13
 300 000
 72
 12. Juni
@@ -71,8 +71,8 @@ Peso, Centavos
 Polen
 Warschau
 Europa, Mittel
-38 460 000
-33
+37 887 700
+38
 312 685
 69
 3. Mai und 11. November
@@ -81,8 +81,8 @@ Zloty, Groszy
 Portugal
 Lissabon
 Europa, Südwest
-10 600 000
-77
+10 226 100
+87
 92 345
 109
 10. Juni
@@ -91,8 +91,8 @@ Euro, Cent
 Ruanda
 Kigali
 Afrika, Ost
-12 340 000
-84
+12 627 000
+75
 26 338
 145
 1. Juli
@@ -101,58 +101,58 @@ Ruanda-Franc, Cent
 Rumänien
 Bukarest
 Europa, Südost
-19 520 000
-53
+19 364 600
+60
 238 391
 81
 1. Dezember
 1877
 Leu, Bani
-Russland, 
+Russland
 Moskau
 Europa & Asien
-144 500 000
+145 872 300
 9
 17 075 400
 1
 12. Juni
-
+ 
 Rubel, Kopeken
-Saint Kitts 
+Saint Kitts und Nevis
 Basseterre
 Amerika, Karibik
-56 000
-189
+52 800
+187
 269
 189
 19. September
 1983
 Karibik-Dollar, Cent
-Saint Lucia, 
+Saint Lucia
 Castries
 Amerika, Karibik
-165 600
-177
+182 800
+176
 616
 179
 22. Februar
 1979
 Karibik-Dollar, Cent
-St. Vincent 
+St. Vincent und Grenadinen
 Kingstown
 Amerika, Karibik
-117 200
+110 600
 180
 389
 185
 27. Oktober
 1979
 Karibik-Dollar, Cent
-Salomonen, 
+Salomonen
 Honiara
 Ozeanien, Polynesien
-622 500
-164
+669 800
+161
 27 556
 144
 7. Juli
@@ -161,8 +161,8 @@ Salom-Dollar, Cent
 Sambia, 
 Lusaka
 Afrika, Süd
-14 540 000
-70
+17 861 100
+64
 752 614
 38
 24. Oktober
@@ -171,8 +171,8 @@ Kwacha, Ngwee
 Samoa, 
 Apia
 Ozeanien, Polynesien
-196 400
-176
+197 100
+175
 2 831
 168
 1. Januar und 1. Juni
@@ -181,8 +181,8 @@ Tala, Sene
 San Marino, 
 San Marino
 Europa, Süd
-33 400
-192
+33 860
+190
 61
 192
 3. September
@@ -191,18 +191,19 @@ Euro, Cent
 Sao Tomé und Principe
 Sao Tomé
 Afrika, Zentral
-167 000
-178
+215 100
+174
 1 001
 172
 12. Juli
 1975
 Dobra, Céntimo
+
 Saudi-Arabien, 
 Riad
 Asien, Vorder
-33 940 000
-46
+34 268 600
+41
 2 240 000
 12
 23. September
@@ -211,18 +212,18 @@ Riyal, Qirshes
 Schweden, 
 Stockholm
 Europa, Nord
-10 230 000
-87
+10 036 400
+90
 449 964
 56
 6. Juni
-
+ 
 Schw.-Krone, Öre
 Schweiz, 
 Bern
 Europa, Mittel
-8 480 000
-94
+8 591 360
+99
 41 285
 132
 1. August
@@ -231,8 +232,8 @@ Franken, Rappen
 Senegal
 Dakar
 Afrika, West
-12 640 000
-71
+16 296 400
+70
 196 722
 86
 4. April
@@ -241,7 +242,7 @@ CFA-Franc, Cent
 Serbien
 Belgrad
 Europa, Südost
-7 060 000
+8 772 300
 98
 77 474
 115
@@ -251,8 +252,8 @@ Dinar, Para
 Seychellen
 Victoria
 Afrika, Ost
-90 000
-184
+97 740
+182
 454
 182
 18. Juni und 29. Juni
@@ -261,8 +262,8 @@ Sey. Rupie
 Sierra Leone
 Freetown
 Afrika, West
-7 075 000
-108
+7 813 200
+102
 71 740
 117
 27. April
@@ -271,8 +272,8 @@ Leone, Cent
 Simbabwe, 
 Harare
 Afrika, Süd
-13 060 000
-72
+14 645 500
+73
 390 757
 61
 18. April
@@ -281,8 +282,8 @@ Sim.-Dollar, Cent
 Singapur, 
 Singapur
 Asien, Südost
-5 600 000
-115
+5 804 400
+112
 710
 177
 9. August
@@ -291,8 +292,8 @@ Sin.-Dollar, Cent
 Slowakei
 Bratislava (Pressburg)
 Europa, Mittel
-5 440 000
-110
+5 457 000
+115
 49 034
 127
 1. Januar
@@ -301,19 +302,18 @@ Slow.-Krone, Heller
 Slowenien
 Ljubljana (Laibach)
 Europa, Mittel
-2 060 000
-142
+2 078 700
+145
 20 253
 151
 25. Juni und 26. Dezember
 1991
 Euro, Cent
- 
 Somalia
 Mogadischu
 Afrika, Nordost
-11 000 000
-88
+15 442 900
+72
 637 657
 41
 26. Juni und 1. Juli
@@ -322,18 +322,19 @@ Som.-Schilling
 Spanien, 
 Madrid
 Europa, Südwest
-46 720 000
-28
+46 736 800
+30
 504 645
 51
 12. Oktober
-
+ 
 Euro, Cent
+
 Sri Lanka, 
 Colombo
 Asien, Süd
-20 800 000
-56
+21 323 800
+57
 65 610
 120
 4. Februar
@@ -342,7 +343,7 @@ Sri La.-Rupie, Cent
 Sudan
 Khartum
 Afrika, Nordost
-36 110 000
+42 813 300
 35
 1 840 687
 15
@@ -352,8 +353,8 @@ Sudan. Pfund
 Südafrika
 Pretoria
 Afrika, Süd
-57 730 000
-25
+58 558 300
+24
 1 219 090
 24
 27. April
@@ -362,8 +363,8 @@ Rand, Cent
 Südsudan
 Juba
 Afrika, Nordost
-12 043 000
-93
+11 062 100
+83
 619 745
 43
 9. Juli
@@ -372,39 +373,29 @@ Südsud.-Pfund
 Suriname, 
 Paramaribo
 Südamerika
-541 600
-165
+581 400
+164
 163 265
 91
 25. November
 1975
 Sur.-Gulden, Cent
-Swasiland,
-Mbabane*
-Afrika, Südost
-1 420 000
-153
-17 363
-154
-6. September
-1968
-Lilangeni, Cent
- 
 Syrien
 Damaskus
 Asien, Vorder
-20 900 000
-54
+17 070 100
+68
 185 180
 87
 17. April
 1946
 Syr.-Pfund, Piaster
+
 Tadschikistan
 Duschanbe
 Asien, Zentral
-8 800 000
-99
+9 321 000
+95
 143 100
 94
 9. September
@@ -413,8 +404,8 @@ Somoni, Dirann
 Taiwan
 Taipeh
 Asien, Ost
-23 570 000
-50
+23 773 900
+–
 36 000
 135
 10. Oktober
@@ -423,8 +414,8 @@ NTDollar, Cent
 Tansania
 Dodoma*
 Afrika, Ost
-49 250 000
-30
+58 005 500
+25
 945 087
 30
 26. April
@@ -433,17 +424,17 @@ Ta.-Schilling, Cent
 Thailand, 
 Bangkok
 Asien, Südost
-69 040 000
-19
+69 625 600
+20
 513 115
 50
 5. Dezember und 10. Dezember
-
+ 
 Bath, Stangs
 Togo
 Lomé
 Afrika, West
-7 690 000
+8 082 400
 101
 56 785
 123
@@ -453,18 +444,18 @@ CFA-Franc, Cent
 Tonga, 
 Nuku‘alofa
 Ozeanien, Polynesien
-100 800
+104 500
 181
 748
 175
 4. Juni
 1970 (Gründung)
 Pa‘anga, Seniti
-Trinidad 
+Trinidad und Tobago
 Port of Spain
 Amerika, Karibik
-1 220 000
-151
+1 395 000
+149
 5 128
 166
 31. August
@@ -473,8 +464,8 @@ TTDollar, Cent
 Tschad
 N’Djamena
 Afrika, Zentral
-1 284 000
-74
+15 946 900
+71
 1 284 000
 20
 11. August
@@ -483,8 +474,8 @@ CFA-Franc, Cent
 Tschechien
 Prag
 Europa, Mittel
-10 640 000
-78
+10 689 200
+85
 78 866
 113
 28. Oktober
@@ -493,8 +484,8 @@ Tsch.-Krone, Heller
 Tunesien
 Tunis
 Afrika, Nord
-11 300 000
-79
+11 694 800
+77
 163 610
 90
 20. März
@@ -503,8 +494,8 @@ Dinar, Millimes
 Türkei, 
 Ankara
 Asien & Europa
-82 000 000
-17
+83 429 600
+18
 779 452
 36
 29. Oktober
@@ -513,18 +504,18 @@ Türk.-Lira, Kurus
 Turkmenistan
 Asgabat
 Asien, Zentral
-5 760 000
-113
+5 942 100
+111
 488 100
 52
 27. Oktober
 1991
 Manat, Tenge
-Tuvalu, 
+Tuvalu
 Funafuti
 Ozeanien, Polynesien
-10 640
-194
+11 650
+192
 26
 193
 1. Oktober
@@ -533,8 +524,8 @@ AUS-Dollar, Cent
 Uganda
 Kampala
 Afrika, Ost
-34 900 000
-37
+44 269 600
+32
 241 548
 79
 9. Oktober
@@ -543,8 +534,8 @@ Ug.-Schilling, Cent
 Ukraine
 Kiew
 Europa, Ost
-42 850 000
-27
+43 993 700
+33
 603 700
 44
 24. August
@@ -553,8 +544,8 @@ Hrywnja, Kopijki
 Ungarn
 Budapest
 Europa, Mittel
-9 780 000
-83
+9 684 600
+93
 93 030
 108
 15. März, 20. August und 23. Oktober
@@ -563,8 +554,8 @@ Forint, Fillér
 Uruguay
 Montevideo
 Südamerika
-3 360 000
-130
+3 461 700
+131
 176 215
 89
 25. August
@@ -573,8 +564,8 @@ Urug.-Peso, Cent.
 Usbekistan
 Taschkent
 Asien, Zentral
-33 255 000
-44
+32 981 700
+42
 447 400
 57
 1. September
@@ -583,8 +574,8 @@ Som, Tiyin
 Vanuatu, 
 Port Vila
 Ozeanien, Polynesien
-258 000
-175
+299 900
+172
 12 190
 158
 30. Juli
@@ -593,8 +584,8 @@ Vatu
 Vatikanstadt, 
 Vatikanstadt
 Europa, Süd
-1 000
-196
+815
+194
 0,44
 196
 13. März
@@ -603,8 +594,8 @@ Euro, Cent
 Venezuela
 Caracas
 Südamerika
-31 700 000
-43
+28 515 800
+50
 912 050
 32
 5. Juli
@@ -613,8 +604,8 @@ Bolivar, Centimes
 Vereinigte Arabische Emirate, 
 Abu Dhabi
 Asien, Vorder
-9 267 000
-117
+9 770 500
+91
 77 700
 114
 2. Dezember
@@ -623,7 +614,7 @@ Dirham, Fils
 USA
 Washington
 Nordamerika
-327 775 000
+329 065 000
 3
 9 809 155
 3
@@ -633,8 +624,8 @@ US-Dollar, Cent
 Vietnam
 Hanoi
 Asien, Südost
-95 415 000
-13
+96 462 100
+15
 331 114
 65
 2. September
@@ -643,8 +634,8 @@ Dong, Hào, Xu
 Weißrussland 
 Minsk
 Europa, Ost
-9 500 000
-86
+9 452 400
+94
 207 595
 84
 3. Juli
@@ -653,8 +644,8 @@ Belarus-Rubel
 Zentralafrikanische Republik
 Bangui
 Afrika, Zentral
-4 620 000
-121
+4 745 200
+123
 622 436
 42
 13. August und 1. Dezember
@@ -663,8 +654,8 @@ CFA-Franc, Cent
 Zypern, Republik
 Nikosia
 Asien, Vorder
-848 300
-155
+1 198 600
+154
 9 251
 164
 16. August und 1. Oktober

@@ -1,4 +1,5 @@
 '''
+Deprecated
 Exemplary version of haystack question answering on some of the Taschenhirn (flat files)
 https://github.com/deepset-ai/haystack
 
