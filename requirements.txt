@@ -105,7 +105,7 @@ soupsieve==2.2.1
 SPARQLWrapper==1.8.5
 SQLAlchemy==1.4.9
 SQLAlchemy-Utils==0.37.0
-sqlparse==0.4.1
+sqlparse==0.4.2
 starlette==0.13.6
 tabulate==0.8.9
 threadpoolctl==2.1.0
